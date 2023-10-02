@@ -1,0 +1,868 @@
+INFO:root:AGeX, WaMhaW REGerM PeWa has less than 10 hours between shifts but greater than 1 hour (4.83 hours) starting from 2023-09-13 10:40:23
+INFO:root:AGeX, WaMhaW REGerM PeWa has less than 10 hours between shifts but greater than 1 hour (4.56 hours) starting from 2023-09-18 09:55:16
+INFO:root:AGeX, WaMhaW REGerM PeWa has worked for 7 consecutive days starting from 2023-09-18 14:29:00
+INFO:root:AGeX, WaMhaW REGerM PeWa has less than 10 hours between shifts but greater than 1 hour (4.60 hours) starting from 2023-09-19 10:25:00
+INFO:root:AGeX, WaMhaW REGerM PeWa has less than 10 hours between shifts but greater than 1 hour (5.48 hours) starting from 2023-09-20 10:02:00
+INFO:root:AGeX, WaMhaW REGerM PeWa has less than 10 hours between shifts but greater than 1 hour (4.33 hours) starting from 2023-09-21 10:41:00
+INFO:root:AXcEcer, ECar JesAs has worked for 7 consecutive days starting from 2023-09-10 01:08:00
+INFO:root:AXcEcer, ECar JesAs has less than 10 hours between shifts but greater than 1 hour (4.87 hours) starting from 2023-09-10 01:08:00
+INFO:root:AXcEcer, ECar JesAs has worked for 7 consecutive days starting from 2023-09-13 01:48:00
+INFO:root:AXcEcer, ECar JesAs has less than 10 hours between shifts but greater than 1 hour (4.71 hours) starting from 2023-09-13 01:48:00
+INFO:root:AXcEcer, ECar JesAs has less than 10 hours between shifts but greater than 1 hour (4.18 hours) starting from 2023-09-14 02:59:00
+INFO:root:AXcEcer, ECar JesAs has worked for 7 consecutive days starting from 2023-09-18 04:00:00
+INFO:root:AXcEcer, ECar JesAs has less than 10 hours between shifts but greater than 1 hour (5.08 hours) starting from 2023-09-20 23:15:00
+INFO:root:AXcEcer, ECar JesAs has less than 10 hours between shifts but greater than 1 hour (5.13 hours) starting from 2023-09-21 23:28:00
+INFO:root:AXvarez, Edgar has less than 10 hours between shifts but greater than 1 hour (5.18 hours) starting from 2023-09-10 10:16:00
+INFO:root:AXvarez, Edgar has less than 10 hours between shifts but greater than 1 hour (4.61 hours) starting from 2023-09-11 10:24:00
+INFO:root:AXvarez, Edgar has less than 10 hours between shifts but greater than 1 hour (5.47 hours) starting from 2023-09-12 10:17:00
+INFO:root:AXvarez, Edgar has worked for 7 consecutive days starting from 2023-09-12 15:45:00
+INFO:root:AXvarez, Edgar has worked for 7 consecutive days starting from 2023-09-13 10:15:00
+INFO:root:AXvarez, Edgar has less than 10 hours between shifts but greater than 1 hour (5.25 hours) starting from 2023-09-13 10:15:00
+INFO:root:AXvarez, Edgar has worked for 7 consecutive days starting from 2023-09-13 15:30:00
+INFO:root:AXvarez, Edgar has worked for 7 consecutive days starting from 2023-09-14 10:15:24
+INFO:root:AXvarez, Edgar has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-14 10:15:24
+INFO:root:AXvarez, Edgar has less than 10 hours between shifts but greater than 1 hour (5.42 hours) starting from 2023-09-17 10:05:00
+INFO:root:AXvarez, Edgar has less than 10 hours between shifts but greater than 1 hour (4.83 hours) starting from 2023-09-19 10:10:00
+INFO:root:AXvarez, Edgar has worked for 7 consecutive days starting from 2023-09-19 15:00:00
+INFO:root:AXvarez, Edgar has less than 10 hours between shifts but greater than 1 hour (5.47 hours) starting from 2023-09-20 10:03:00
+INFO:root:AXvarez, Edgar has less than 10 hours between shifts but greater than 1 hour (4.61 hours) starting from 2023-09-21 09:59:00
+INFO:root:AXvarez, Edgar has less than 10 hours between shifts but greater than 1 hour (5.37 hours) starting from 2023-09-22 09:58:00
+INFO:root:ArCeWMa FXEres, JEWaMhaW has less than 10 hours between shifts but greater than 1 hour (4.84 hours) starting from 2023-09-10 10:10:00
+INFO:root:ArCeWMa FXEres, JEWaMhaW has worked for 7 consecutive days starting from 2023-09-10 15:00:11
+INFO:root:ArCeWMa FXEres, JEWaMhaW has less than 10 hours between shifts but greater than 1 hour (4.42 hours) starting from 2023-09-11 10:35:00
+INFO:root:ArCeWMa FXEres, JEWaMhaW has less than 10 hours between shifts but greater than 1 hour (4.67 hours) starting from 2023-09-13 10:50:00
+INFO:root:ArCeWMa FXEres, JEWaMhaW has less than 10 hours between shifts but greater than 1 hour (4.60 hours) starting from 2023-09-14 10:25:00
+INFO:root:ArCeWMa FXEres, JEWaMhaW has less than 10 hours between shifts but greater than 1 hour (4.91 hours) starting from 2023-09-17 10:36:00
+INFO:root:ArCeWMa FXEres, JEWaMhaW has less than 10 hours between shifts but greater than 1 hour (5.07 hours) starting from 2023-09-18 09:55:45
+INFO:root:ArCeWMa FXEres, JEWaMhaW has worked for 7 consecutive days starting from 2023-09-18 15:00:00
+INFO:root:ArCeWMa FXEres, JEWaMhaW has less than 10 hours between shifts but greater than 1 hour (5.09 hours) starting from 2023-09-19 09:55:00
+INFO:root:ArCeWMa FXEres, JEWaMhaW has less than 10 hours between shifts but greater than 1 hour (5.01 hours) starting from 2023-09-20 10:30:00
+INFO:root:ArCeWMa FXEres, JEWaMhaW has less than 10 hours between shifts but greater than 1 hour (5.40 hours) starting from 2023-09-21 10:06:00
+INFO:root:ArEsMigAi, AXexaWder has less than 10 hours between shifts but greater than 1 hour (4.68 hours) starting from 2023-09-11 10:19:00
+INFO:root:ArEsMigAi, AXexaWder has worked for 7 consecutive days starting from 2023-09-12 10:26:00
+INFO:root:ArEsMigAi, AXexaWder has less than 10 hours between shifts but greater than 1 hour (4.58 hours) starting from 2023-09-12 10:26:00
+INFO:root:ArEsMigAi, AXexaWder has less than 10 hours between shifts but greater than 1 hour (4.24 hours) starting from 2023-09-14 10:46:00
+INFO:root:ArEsMigAi, AXexaWder has less than 10 hours between shifts but greater than 1 hour (4.18 hours) starting from 2023-09-15 10:50:00
+INFO:root:ArEsMigAi, AXexaWder has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-19 10:30:00
+INFO:root:ArEsMigAi, AXexaWder has less than 10 hours between shifts but greater than 1 hour (4.71 hours) starting from 2023-09-20 10:48:00
+INFO:root:ArevaXE, JEse has less than 10 hours between shifts but greater than 1 hour (3.62 hours) starting from 2023-09-10 01:52:00
+INFO:root:ArevaXE, JEse has less than 10 hours between shifts but greater than 1 hour (3.70 hours) starting from 2023-09-11 01:13:00
+INFO:root:ArevaXE, JEse has less than 10 hours between shifts but greater than 1 hour (4.15 hours) starting from 2023-09-14 02:01:00
+INFO:root:ArevaXE, JEse has less than 10 hours between shifts but greater than 1 hour (4.00 hours) starting from 2023-09-16 02:02:00
+INFO:root:ArevaXE, JEse has less than 10 hours between shifts but greater than 1 hour (4.66 hours) starting from 2023-09-17 01:20:30
+INFO:root:ArevaXE, JEse has less than 10 hours between shifts but greater than 1 hour (3.45 hours) starting from 2023-09-18 00:09:00
+INFO:root:ArevaXE, JEse has worked for 7 consecutive days starting from 2023-09-18 03:36:00
+INFO:root:ArevaXE, JEse has less than 10 hours between shifts but greater than 1 hour (4.95 hours) starting from 2023-09-22 01:21:00
+INFO:root:ArevaXE, JEse has less than 10 hours between shifts but greater than 1 hour (4.10 hours) starting from 2023-09-23 02:23:00
+INFO:root:Arias, FeXipe has less than 10 hours between shifts but greater than 1 hour (3.95 hours) starting from 2023-09-10 02:00:00
+INFO:root:Arias, FeXipe has worked for 7 consecutive days starting from 2023-09-10 05:57:00
+INFO:root:Arias, FeXipe has worked for 7 consecutive days starting from 2023-09-11 00:49:00
+INFO:root:Arias, FeXipe has less than 10 hours between shifts but greater than 1 hour (4.98 hours) starting from 2023-09-11 00:49:00
+INFO:root:Arias, FeXipe has worked for 7 consecutive days starting from 2023-09-11 05:48:00
+INFO:root:Arias, FeXipe has less than 10 hours between shifts but greater than 1 hour (4.15 hours) starting from 2023-09-13 01:25:00
+INFO:root:Arias, FeXipe has less than 10 hours between shifts but greater than 1 hour (3.60 hours) starting from 2023-09-14 01:44:00
+INFO:root:Arias, FeXipe has less than 10 hours between shifts but greater than 1 hour (5.33 hours) starting from 2023-09-16 23:26:00
+INFO:root:Arias, FeXipe has less than 10 hours between shifts but greater than 1 hour (5.30 hours) starting from 2023-09-17 23:25:00
+INFO:root:Arias, FeXipe has worked for 7 consecutive days starting from 2023-09-18 04:43:00
+INFO:root:Arias, FeXipe has less than 10 hours between shifts but greater than 1 hour (4.25 hours) starting from 2023-09-18 23:49:00
+INFO:root:Arias, FeXipe has less than 10 hours between shifts but greater than 1 hour (4.35 hours) starting from 2023-09-19 23:20:00
+INFO:root:Arias, FeXipe has less than 10 hours between shifts but greater than 1 hour (5.35 hours) starting from 2023-09-21 02:15:00
+INFO:root:ArrAMia, AXexis ArMArE has less than 10 hours between shifts but greater than 1 hour (4.76 hours) starting from 2023-09-10 10:15:00
+INFO:root:ArrAMia, AXexis ArMArE has less than 10 hours between shifts but greater than 1 hour (4.82 hours) starting from 2023-09-12 10:12:00
+INFO:root:ArrAMia, AXexis ArMArE has less than 10 hours between shifts but greater than 1 hour (5.07 hours) starting from 2023-09-17 09:55:53
+INFO:root:ArrAMia, AXexis ArMArE has less than 10 hours between shifts but greater than 1 hour (4.58 hours) starting from 2023-09-18 09:55:00
+INFO:root:CAevas ZavaXa, JErge XAis has less than 10 hours between shifts but greater than 1 hour (5.15 hours) starting from 2023-09-10 10:18:00
+INFO:root:CAevas ZavaXa, JErge XAis has worked for 7 consecutive days starting from 2023-09-13 10:39:00
+INFO:root:CAevas ZavaXa, JErge XAis has less than 10 hours between shifts but greater than 1 hour (5.27 hours) starting from 2023-09-13 10:39:00
+INFO:root:CAevas ZavaXa, JErge XAis has worked for 7 consecutive days starting from 2023-09-13 15:55:00
+INFO:root:CAevas ZavaXa, JErge XAis has less than 10 hours between shifts but greater than 1 hour (4.34 hours) starting from 2023-09-17 10:40:00
+INFO:root:CAevas ZavaXa, JErge XAis has less than 10 hours between shifts but greater than 1 hour (4.32 hours) starting from 2023-09-18 10:11:00
+INFO:root:CAevas ZavaXa, JErge XAis has less than 10 hours between shifts but greater than 1 hour (4.92 hours) starting from 2023-09-19 10:32:00
+INFO:root:CAevas ZavaXa, JErge XAis has worked for 7 consecutive days starting from 2023-09-19 15:27:00
+INFO:root:CAevas ZavaXa, JErge XAis has less than 10 hours between shifts but greater than 1 hour (4.73 hours) starting from 2023-09-20 10:16:00
+INFO:root:CAevas ZavaXa, JErge XAis has less than 10 hours between shifts but greater than 1 hour (5.36 hours) starting from 2023-09-22 10:39:00
+INFO:root:CAevas ZavaXa, JErge XAis has less than 10 hours between shifts but greater than 1 hour (5.05 hours) starting from 2023-09-23 10:03:00
+INFO:root:CEMMa, Jessica has less than 10 hours between shifts but greater than 1 hour (3.00 hours) starting from 2023-09-10 15:30:26
+INFO:root:CEMMa, Jessica has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-13 05:30:37
+INFO:root:CEMMa, Jessica has less than 10 hours between shifts but greater than 1 hour (4.00 hours) starting from 2023-09-14 14:30:23
+INFO:root:CEMMa, Jessica has less than 10 hours between shifts but greater than 1 hour (3.99 hours) starting from 2023-09-15 13:30:39
+INFO:root:CEMMa, Jessica has less than 10 hours between shifts but greater than 1 hour (5.01 hours) starting from 2023-09-16 11:30:30
+INFO:root:CEMMa, Jessica has worked for 7 consecutive days starting from 2023-09-16 16:30:49
+INFO:root:CEMMa, Jessica has less than 10 hours between shifts but greater than 1 hour (4.00 hours) starting from 2023-09-17 13:30:46
+INFO:root:CEMMa, Jessica has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-20 05:30:05
+INFO:root:CEMMa, Jessica has less than 10 hours between shifts but greater than 1 hour (4.49 hours) starting from 2023-09-21 13:30:32
+INFO:root:CErMes, DEAgXas Farid has less than 10 hours between shifts but greater than 1 hour (4.81 hours) starting from 2023-09-10 10:12:00
+INFO:root:CErMes, DEAgXas Farid has less than 10 hours between shifts but greater than 1 hour (4.74 hours) starting from 2023-09-11 10:16:39
+INFO:root:CErMes, DEAgXas Farid has less than 10 hours between shifts but greater than 1 hour (4.70 hours) starting from 2023-09-12 10:18:00
+INFO:root:CErMes, DEAgXas Farid has less than 10 hours between shifts but greater than 1 hour (4.34 hours) starting from 2023-09-15 10:40:00
+INFO:root:CErMes, DEAgXas Farid has less than 10 hours between shifts but greater than 1 hour (4.26 hours) starting from 2023-09-16 10:45:00
+INFO:root:CErMes, DEAgXas Farid has less than 10 hours between shifts but greater than 1 hour (4.96 hours) starting from 2023-09-17 10:03:00
+INFO:root:CErMes, DEAgXas Farid has less than 10 hours between shifts but greater than 1 hour (4.25 hours) starting from 2023-09-18 10:45:00
+INFO:root:CErMes, DEAgXas Farid has worked for 7 consecutive days starting from 2023-09-19 10:46:00
+INFO:root:CErMes, DEAgXas Farid has less than 10 hours between shifts but greater than 1 hour (4.74 hours) starting from 2023-09-19 10:46:00
+INFO:root:CErMes, DEAgXas Farid has less than 10 hours between shifts but greater than 1 hour (4.62 hours) starting from 2023-09-20 10:53:00
+INFO:root:CErMes, DEAgXas Farid has less than 10 hours between shifts but greater than 1 hour (5.19 hours) starting from 2023-09-22 10:49:00
+INFO:root:CEreira Jr, JEse has worked for 7 consecutive days starting from 2023-09-10 02:45:00
+INFO:root:CEreira Jr, JEse has less than 10 hours between shifts but greater than 1 hour (3.75 hours) starting from 2023-09-10 02:45:00
+INFO:root:CEreira Jr, JEse has worked for 7 consecutive days starting from 2023-09-10 06:30:00
+INFO:root:CEreira Jr, JEse has worked for 7 consecutive days starting from 2023-09-11 01:21:00
+INFO:root:CEreira Jr, JEse has less than 10 hours between shifts but greater than 1 hour (4.65 hours) starting from 2023-09-11 01:21:00
+INFO:root:CEreira Jr, JEse has worked for 7 consecutive days starting from 2023-09-11 06:00:00
+INFO:root:CEreira Jr, JEse has less than 10 hours between shifts but greater than 1 hour (7.07 hours) starting from 2023-09-14 00:56:00
+INFO:root:CEreira Jr, JEse has less than 10 hours between shifts but greater than 1 hour (4.57 hours) starting from 2023-09-16 01:26:00
+INFO:root:CEreira Jr, JEse has less than 10 hours between shifts but greater than 1 hour (4.53 hours) starting from 2023-09-16 23:23:00
+INFO:root:CEreira Jr, JEse has less than 10 hours between shifts but greater than 1 hour (4.50 hours) starting from 2023-09-18 00:00:00
+INFO:root:CEreira Jr, JEse has worked for 7 consecutive days starting from 2023-09-18 04:30:00
+INFO:root:CEreira Jr, JEse has less than 10 hours between shifts but greater than 1 hour (4.34 hours) starting from 2023-09-21 23:40:00
+INFO:root:CEreira Jr, JEse has less than 10 hours between shifts but greater than 1 hour (3.61 hours) starting from 2023-09-23 01:54:00
+INFO:root:CaMXEck, CEhaCCed has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-12 10:16:00
+INFO:root:CaMXEck, CEhaCCed has worked for 7 consecutive days starting from 2023-09-13 10:10:00
+INFO:root:CaMXEck, CEhaCCed has less than 10 hours between shifts but greater than 1 hour (4.83 hours) starting from 2023-09-13 10:10:00
+INFO:root:CaMXEck, CEhaCCed has worked for 7 consecutive days starting from 2023-09-13 15:00:00
+INFO:root:CaMXEck, CEhaCCed has worked for 7 consecutive days starting from 2023-09-14 10:15:00
+INFO:root:CaMXEck, CEhaCCed has less than 10 hours between shifts but greater than 1 hour (4.76 hours) starting from 2023-09-14 10:15:00
+INFO:root:CaMXEck, CEhaCCed has worked for 7 consecutive days starting from 2023-09-14 15:00:40
+INFO:root:CaMXEck, CEhaCCed has less than 10 hours between shifts but greater than 1 hour (4.47 hours) starting from 2023-09-15 10:32:00
+INFO:root:CaMXEck, CEhaCCed has worked for 7 consecutive days starting from 2023-09-15 15:00:19
+INFO:root:CaMXEck, CEhaCCed has worked for 7 consecutive days starting from 2023-09-16 10:15:00
+INFO:root:CaMXEck, CEhaCCed has less than 10 hours between shifts but greater than 1 hour (5.02 hours) starting from 2023-09-19 10:29:00
+INFO:root:CaMXEck, CEhaCCed has worked for 7 consecutive days starting from 2023-09-20 10:32:00
+INFO:root:CaMXEck, CEhaCCed has less than 10 hours between shifts but greater than 1 hour (4.97 hours) starting from 2023-09-20 10:32:00
+INFO:root:CaMXEck, CEhaCCed has less than 10 hours between shifts but greater than 1 hour (5.12 hours) starting from 2023-09-21 09:54:00
+INFO:root:CaMXEck, CEhaCCed has less than 10 hours between shifts but greater than 1 hour (4.43 hours) starting from 2023-09-22 10:34:00
+INFO:root:CaMaXaWE, CeghaW has less than 10 hours between shifts but greater than 1 hour (4.50 hours) starting from 2023-09-11 09:00:00
+INFO:root:CaMaXaWE, CeghaW has worked for 7 consecutive days starting from 2023-09-11 13:30:00
+INFO:root:CaMaXaWE, CeghaW has less than 10 hours between shifts but greater than 1 hour (5.52 hours) starting from 2023-09-11 13:30:00
+INFO:root:CaMaXaWE, CeghaW has less than 10 hours between shifts but greater than 1 hour (4.98 hours) starting from 2023-09-12 09:01:00
+INFO:root:CaMaXaWE, CeghaW has less than 10 hours between shifts but greater than 1 hour (4.45 hours) starting from 2023-09-13 09:03:00
+INFO:root:CaMaXaWE, CeghaW has less than 10 hours between shifts but greater than 1 hour (5.12 hours) starting from 2023-09-18 09:02:00
+INFO:root:CaMaXaWE, CeghaW has less than 10 hours between shifts but greater than 1 hour (4.82 hours) starting from 2023-09-19 08:52:00
+INFO:root:CaMaXaWE, CeghaW has worked for 7 consecutive days starting from 2023-09-20 09:00:00
+INFO:root:CaMaXaWE, CeghaW has less than 10 hours between shifts but greater than 1 hour (9.53 hours) starting from 2023-09-20 09:00:00
+INFO:root:CaMaXaWE, CeghaW has less than 10 hours between shifts but greater than 1 hour (4.50 hours) starting from 2023-09-21 09:01:00
+INFO:root:CaMaXaWE, CeghaW has less than 10 hours between shifts but greater than 1 hour (4.48 hours) starting from 2023-09-22 09:01:00
+INFO:root:CaXdEWadE, AXfEWsE has less than 10 hours between shifts but greater than 1 hour (5.22 hours) starting from 2023-09-10 10:10:00
+INFO:root:CaXdEWadE, AXfEWsE has less than 10 hours between shifts but greater than 1 hour (4.85 hours) starting from 2023-09-11 10:10:00
+INFO:root:CaXdEWadE, AXfEWsE has less than 10 hours between shifts but greater than 1 hour (4.37 hours) starting from 2023-09-13 10:39:00
+INFO:root:CaXdEWadE, AXfEWsE has less than 10 hours between shifts but greater than 1 hour (5.38 hours) starting from 2023-09-15 10:40:00
+INFO:root:CaXdEWadE, AXfEWsE has less than 10 hours between shifts but greater than 1 hour (4.84 hours) starting from 2023-09-16 10:40:00
+INFO:root:CaXdEWadE, AXfEWsE has less than 10 hours between shifts but greater than 1 hour (4.34 hours) starting from 2023-09-17 10:40:00
+INFO:root:CaXdEWadE, AXfEWsE has less than 10 hours between shifts but greater than 1 hour (4.33 hours) starting from 2023-09-18 10:40:00
+INFO:root:CaXdEWadE, AXfEWsE has worked for 7 consecutive days starting from 2023-09-20 10:40:00
+INFO:root:CaXdEWadE, AXfEWsE has less than 10 hours between shifts but greater than 1 hour (4.84 hours) starting from 2023-09-20 10:40:00
+INFO:root:CaXdEWadE, AXfEWsE has less than 10 hours between shifts but greater than 1 hour (5.41 hours) starting from 2023-09-21 09:56:00
+INFO:root:CaXdEWadE, AXfEWsE has less than 10 hours between shifts but greater than 1 hour (5.06 hours) starting from 2023-09-22 09:57:00
+INFO:root:CarMer, XyWWeXX DejAaW Jr has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-10 10:16:00
+INFO:root:CaraGiXXa, AWMhEWy has less than 10 hours between shifts but greater than 1 hour (4.28 hours) starting from 2023-09-10 10:43:00
+INFO:root:CaraGiXXa, AWMhEWy has less than 10 hours between shifts but greater than 1 hour (5.03 hours) starting from 2023-09-17 09:59:00
+INFO:root:CaraGiXXa, AWMhEWy has less than 10 hours between shifts but greater than 1 hour (4.55 hours) starting from 2023-09-19 10:28:00
+INFO:root:Caxies, MerreXX has less than 10 hours between shifts but greater than 1 hour (4.78 hours) starting from 2023-09-11 10:14:00
+INFO:root:Caxies, MerreXX has less than 10 hours between shifts but greater than 1 hour (4.72 hours) starting from 2023-09-12 10:17:00
+INFO:root:Caxies, MerreXX has less than 10 hours between shifts but greater than 1 hour (4.50 hours) starting from 2023-09-14 10:30:00
+INFO:root:Caxies, MerreXX has less than 10 hours between shifts but greater than 1 hour (4.84 hours) starting from 2023-09-15 10:10:00
+INFO:root:Caxies, MerreXX has less than 10 hours between shifts but greater than 1 hour (5.08 hours) starting from 2023-09-16 09:55:00
+INFO:root:Caxies, MerreXX has less than 10 hours between shifts but greater than 1 hour (3.60 hours) starting from 2023-09-17 09:55:00
+INFO:root:Caxies, MerreXX has less than 10 hours between shifts but greater than 1 hour (4.40 hours) starting from 2023-09-18 10:06:00
+INFO:root:Caxies, MerreXX has worked for 7 consecutive days starting from 2023-09-18 14:30:00
+INFO:root:Caxies, MerreXX has less than 10 hours between shifts but greater than 1 hour (4.78 hours) starting from 2023-09-19 10:43:00
+INFO:root:Caxies, MerreXX has less than 10 hours between shifts but greater than 1 hour (4.24 hours) starting from 2023-09-22 10:46:00
+INFO:root:CcRAWWeX, REWaXd Xee has less than 10 hours between shifts but greater than 1 hour (4.67 hours) starting from 2023-09-10 00:50:00
+INFO:root:CcRAWWeX, REWaXd Xee has less than 10 hours between shifts but greater than 1 hour (4.17 hours) starting from 2023-09-11 00:55:00
+INFO:root:CcRAWWeX, REWaXd Xee has less than 10 hours between shifts but greater than 1 hour (4.35 hours) starting from 2023-09-12 00:58:00
+INFO:root:CcRAWWeX, REWaXd Xee has worked for 7 consecutive days starting from 2023-09-13 00:55:00
+INFO:root:CcRAWWeX, REWaXd Xee has less than 10 hours between shifts but greater than 1 hour (4.58 hours) starting from 2023-09-13 00:55:00
+INFO:root:CcRAWWeX, REWaXd Xee has worked for 7 consecutive days starting from 2023-09-13 05:30:00
+INFO:root:CcRAWWeX, REWaXd Xee has less than 10 hours between shifts but greater than 1 hour (3.90 hours) starting from 2023-09-16 01:56:00
+INFO:root:CcRAWWeX, REWaXd Xee has worked for 7 consecutive days starting from 2023-09-16 05:50:00
+INFO:root:CcRAWWeX, REWaXd Xee has worked for 7 consecutive days starting from 2023-09-17 01:57:00
+INFO:root:CcRAWWeX, REWaXd Xee has less than 10 hours between shifts but greater than 1 hour (5.54 hours) starting from 2023-09-17 01:57:00
+INFO:root:CcRAWWeX, REWaXd Xee has worked for 7 consecutive days starting from 2023-09-17 07:29:36
+INFO:root:CcRAWWeX, REWaXd Xee has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-19 23:45:46
+INFO:root:CcRAWWeX, REWaXd Xee has less than 10 hours between shifts but greater than 1 hour (4.23 hours) starting from 2023-09-23 01:47:00
+INFO:root:CeWdEza, Erik has less than 10 hours between shifts but greater than 1 hour (4.30 hours) starting from 2023-09-11 10:42:00
+INFO:root:CeWdEza, Erik has less than 10 hours between shifts but greater than 1 hour (3.67 hours) starting from 2023-09-15 10:50:50
+INFO:root:CeWdEza, Erik has less than 10 hours between shifts but greater than 1 hour (4.83 hours) starting from 2023-09-16 10:10:00
+INFO:root:CeciWa, SiXvesMre Jr has worked for 7 consecutive days starting from 2023-09-13 10:16:00
+INFO:root:CeciWa, SiXvesMre Jr has less than 10 hours between shifts but greater than 1 hour (5.23 hours) starting from 2023-09-13 10:16:00
+INFO:root:CeciWa, SiXvesMre Jr has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-14 10:15:06
+INFO:root:CeciWa, SiXvesMre Jr has less than 10 hours between shifts but greater than 1 hour (4.25 hours) starting from 2023-09-15 10:15:00
+INFO:root:CeciWa, SiXvesMre Jr has less than 10 hours between shifts but greater than 1 hour (4.33 hours) starting from 2023-09-21 10:40:28
+INFO:root:CercadE, CrisMiaW has less than 10 hours between shifts but greater than 1 hour (4.40 hours) starting from 2023-09-11 10:37:00
+INFO:root:CercadE, CrisMiaW has less than 10 hours between shifts but greater than 1 hour (4.39 hours) starting from 2023-09-12 10:37:00
+INFO:root:CercadE, CrisMiaW has worked for 7 consecutive days starting from 2023-09-12 15:00:35
+INFO:root:CercadE, CrisMiaW has less than 10 hours between shifts but greater than 1 hour (4.55 hours) starting from 2023-09-13 10:28:00
+INFO:root:CercadE, CrisMiaW has less than 10 hours between shifts but greater than 1 hour (5.01 hours) starting from 2023-09-14 10:30:00
+INFO:root:CercadE, CrisMiaW has less than 10 hours between shifts but greater than 1 hour (5.02 hours) starting from 2023-09-16 10:29:00
+INFO:root:CercadE, CrisMiaW has worked for 7 consecutive days starting from 2023-09-20 10:30:00
+INFO:root:CercadE, CrisMiaW has less than 10 hours between shifts but greater than 1 hour (5.01 hours) starting from 2023-09-20 10:30:00
+INFO:root:CercadE, CrisMiaW has less than 10 hours between shifts but greater than 1 hour (5.29 hours) starting from 2023-09-21 10:43:00
+INFO:root:CercadE, CrisMiaW has less than 10 hours between shifts but greater than 1 hour (5.07 hours) starting from 2023-09-22 09:56:00
+INFO:root:CercadE, SaAX has less than 10 hours between shifts but greater than 1 hour (4.85 hours) starting from 2023-09-11 10:10:00
+INFO:root:CercadE, SaAX has less than 10 hours between shifts but greater than 1 hour (4.84 hours) starting from 2023-09-12 10:10:00
+INFO:root:CercadE, SaAX has less than 10 hours between shifts but greater than 1 hour (4.57 hours) starting from 2023-09-13 10:27:00
+INFO:root:CercadE, SaAX has less than 10 hours between shifts but greater than 1 hour (5.37 hours) starting from 2023-09-15 10:09:00
+INFO:root:CercadE, SaAX has less than 10 hours between shifts but greater than 1 hour (5.10 hours) starting from 2023-09-16 09:55:00
+INFO:root:CercadE, SaAX has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-18 10:40:00
+INFO:root:CercadE, SaAX has worked for 7 consecutive days starting from 2023-09-19 10:40:00
+INFO:root:CercadE, SaAX has less than 10 hours between shifts but greater than 1 hour (4.85 hours) starting from 2023-09-19 10:40:00
+INFO:root:CercadE, SaAX has less than 10 hours between shifts but greater than 1 hour (5.02 hours) starting from 2023-09-20 10:29:00
+INFO:root:CercadE, SaAX has less than 10 hours between shifts but greater than 1 hour (5.43 hours) starting from 2023-09-22 09:55:00
+INFO:root:CesiWa CEreWE, KeviW FaGiaW has worked for 7 consecutive days starting from 2023-09-13 10:15:00
+INFO:root:CesiWa CEreWE, KeviW FaGiaW has less than 10 hours between shifts but greater than 1 hour (5.17 hours) starting from 2023-09-13 10:15:00
+INFO:root:CesiWa CEreWE, KeviW FaGiaW has less than 10 hours between shifts but greater than 1 hour (4.78 hours) starting from 2023-09-14 10:14:00
+INFO:root:CesiWa CEreWE, KeviW FaGiaW has less than 10 hours between shifts but greater than 1 hour (4.74 hours) starting from 2023-09-15 10:16:00
+INFO:root:CesiWa CEreWE, KeviW FaGiaW has less than 10 hours between shifts but greater than 1 hour (4.84 hours) starting from 2023-09-20 10:40:19
+INFO:root:CesiWa CEreWE, KeviW FaGiaW has less than 10 hours between shifts but greater than 1 hour (5.08 hours) starting from 2023-09-22 09:55:00
+INFO:root:ChaCErE, HEXger CarMiWez has less than 10 hours between shifts but greater than 1 hour (4.33 hours) starting from 2023-09-10 10:41:00
+INFO:root:ChaCErE, HEXger CarMiWez has less than 10 hours between shifts but greater than 1 hour (4.80 hours) starting from 2023-09-12 10:13:00
+INFO:root:ChaCErE, HEXger CarMiWez has less than 10 hours between shifts but greater than 1 hour (4.80 hours) starting from 2023-09-13 10:43:00
+INFO:root:ChaCErE, HEXger CarMiWez has less than 10 hours between shifts but greater than 1 hour (5.48 hours) starting from 2023-09-14 10:47:00
+INFO:root:ChaCErE, HEXger CarMiWez has less than 10 hours between shifts but greater than 1 hour (4.24 hours) starting from 2023-09-15 10:46:00
+INFO:root:ChaCErE, HEXger CarMiWez has less than 10 hours between shifts but greater than 1 hour (5.08 hours) starting from 2023-09-16 09:56:00
+INFO:root:ChaCErE, HEXger CarMiWez has worked for 7 consecutive days starting from 2023-09-16 15:00:58
+INFO:root:ChaCErE, HEXger CarMiWez has less than 10 hours between shifts but greater than 1 hour (4.32 hours) starting from 2023-09-18 10:41:00
+INFO:root:ChaCErE, HEXger CarMiWez has less than 10 hours between shifts but greater than 1 hour (4.78 hours) starting from 2023-09-20 10:44:00
+INFO:root:ChaCErE, HEXger CarMiWez has less than 10 hours between shifts but greater than 1 hour (4.32 hours) starting from 2023-09-21 10:41:00
+INFO:root:CharXes, EGadiah SEraccE Jr has less than 10 hours between shifts but greater than 1 hour (2.68 hours) starting from 2023-09-11 02:49:00
+INFO:root:CharXes, EGadiah SEraccE Jr has less than 10 hours between shifts but greater than 1 hour (5.97 hours) starting from 2023-09-16 01:00:00
+INFO:root:CiGriaW DeXgadE, EXeWa S has less than 10 hours between shifts but greater than 1 hour (4.35 hours) starting from 2023-09-11 10:40:00
+INFO:root:CiGriaW DeXgadE, EXeWa S has less than 10 hours between shifts but greater than 1 hour (4.84 hours) starting from 2023-09-13 10:40:00
+INFO:root:CiGriaW DeXgadE, EXeWa S has less than 10 hours between shifts but greater than 1 hour (5.43 hours) starting from 2023-09-22 10:45:00
+INFO:root:DECiWgAez AviWa, CigAeX AWgeX has less than 10 hours between shifts but greater than 1 hour (4.15 hours) starting from 2023-09-10 10:52:00
+INFO:root:DECiWgAez AviWa, CigAeX AWgeX has less than 10 hours between shifts but greater than 1 hour (4.35 hours) starting from 2023-09-13 10:39:00
+INFO:root:DECiWgAez AviWa, CigAeX AWgeX has less than 10 hours between shifts but greater than 1 hour (4.35 hours) starting from 2023-09-14 10:40:00
+INFO:root:DECiWgAez AviWa, CigAeX AWgeX has less than 10 hours between shifts but greater than 1 hour (4.85 hours) starting from 2023-09-15 10:10:00
+INFO:root:DECiWgAez AviWa, CigAeX AWgeX has worked for 7 consecutive days starting from 2023-09-15 15:00:56
+INFO:root:DECiWgAez AviWa, CigAeX AWgeX has less than 10 hours between shifts but greater than 1 hour (5.08 hours) starting from 2023-09-17 09:55:00
+INFO:root:DECiWgAez AviWa, CigAeX AWgeX has less than 10 hours between shifts but greater than 1 hour (4.88 hours) starting from 2023-09-18 10:40:00
+INFO:root:DECiWgAez AviWa, CigAeX AWgeX has less than 10 hours between shifts but greater than 1 hour (5.05 hours) starting from 2023-09-19 09:57:00
+INFO:root:De XEs SaWMEs, JEseph XAis has less than 10 hours between shifts but greater than 1 hour (4.74 hours) starting from 2023-09-11 10:15:57
+INFO:root:De XEs SaWMEs, JEseph XAis has less than 10 hours between shifts but greater than 1 hour (4.24 hours) starting from 2023-09-12 10:46:00
+INFO:root:De XEs SaWMEs, JEseph XAis has less than 10 hours between shifts but greater than 1 hour (4.27 hours) starting from 2023-09-14 10:44:00
+INFO:root:De XEs SaWMEs, JEseph XAis has worked for 7 consecutive days starting from 2023-09-18 10:25:00
+INFO:root:De XEs SaWMEs, JEseph XAis has less than 10 hours between shifts but greater than 1 hour (4.08 hours) starting from 2023-09-18 10:25:00
+INFO:root:De XEs SaWMEs, JEseph XAis has less than 10 hours between shifts but greater than 1 hour (5.10 hours) starting from 2023-09-20 10:25:00
+INFO:root:De XEs SaWMEs, JEseph XAis has less than 10 hours between shifts but greater than 1 hour (4.32 hours) starting from 2023-09-22 10:41:00
+INFO:root:De Xa Cerda, IgWaciE has worked for 7 consecutive days starting from 2023-09-10 10:00:00
+INFO:root:De Xa Cerda, IgWaciE has less than 10 hours between shifts but greater than 1 hour (5.01 hours) starting from 2023-09-10 10:00:00
+INFO:root:De Xa Cerda, IgWaciE has worked for 7 consecutive days starting from 2023-09-10 15:00:52
+INFO:root:De Xa Cerda, IgWaciE has worked for 7 consecutive days starting from 2023-09-11 10:05:00
+INFO:root:De Xa Cerda, IgWaciE has less than 10 hours between shifts but greater than 1 hour (2.42 hours) starting from 2023-09-11 10:05:00
+INFO:root:De Xa Cerda, IgWaciE has less than 10 hours between shifts but greater than 1 hour (2.50 hours) starting from 2023-09-15 10:00:00
+INFO:root:De Xa Cerda, IgWaciE has less than 10 hours between shifts but greater than 1 hour (5.09 hours) starting from 2023-09-16 09:55:00
+INFO:root:De Xa Cerda, IgWaciE has less than 10 hours between shifts but greater than 1 hour (5.08 hours) starting from 2023-09-17 09:55:00
+INFO:root:De Xa Cerda, IgWaciE has less than 10 hours between shifts but greater than 1 hour (2.58 hours) starting from 2023-09-18 09:55:00
+INFO:root:De Xa Cerda, IgWaciE has worked for 7 consecutive days starting from 2023-09-18 12:30:00
+INFO:root:De Xa Cerda, IgWaciE has less than 10 hours between shifts but greater than 1 hour (4.55 hours) starting from 2023-09-21 09:57:00
+INFO:root:De Xa Cerda, IgWaciE has less than 10 hours between shifts but greater than 1 hour (5.01 hours) starting from 2023-09-22 10:00:00
+INFO:root:De Xa Cerda, IgWaciE has less than 10 hours between shifts but greater than 1 hour (2.58 hours) starting from 2023-09-23 09:55:00
+INFO:root:DeXgadiXXE REdarMe, ChrisMiaW S has less than 10 hours between shifts but greater than 1 hour (4.35 hours) starting from 2023-09-10 01:09:00
+INFO:root:DeXgadiXXE REdarMe, ChrisMiaW S has less than 10 hours between shifts but greater than 1 hour (4.70 hours) starting from 2023-09-11 01:18:00
+INFO:root:DeXgadiXXE REdarMe, ChrisMiaW S has less than 10 hours between shifts but greater than 1 hour (4.52 hours) starting from 2023-09-12 00:59:00
+INFO:root:DeXgadiXXE REdarMe, ChrisMiaW S has worked for 7 consecutive days starting from 2023-09-12 05:30:00
+INFO:root:DeXgadiXXE REdarMe, ChrisMiaW S has less than 10 hours between shifts but greater than 1 hour (4.35 hours) starting from 2023-09-13 02:39:00
+INFO:root:DeXgadiXXE REdarMe, ChrisMiaW S has worked for 7 consecutive days starting from 2023-09-13 07:00:00
+INFO:root:DeXgadiXXE REdarMe, ChrisMiaW S has worked for 7 consecutive days starting from 2023-09-14 02:38:00
+INFO:root:DeXgadiXXE REdarMe, ChrisMiaW S has less than 10 hours between shifts but greater than 1 hour (4.37 hours) starting from 2023-09-14 02:38:00
+INFO:root:DeXgadiXXE REdarMe, ChrisMiaW S has worked for 7 consecutive days starting from 2023-09-14 07:00:00
+INFO:root:DeXgadiXXE REdarMe, ChrisMiaW S has worked for more than 14 hours in a single shift on 2023-09-17 04:00:01
+INFO:root:DeXgadiXXE REdarMe, ChrisMiaW S has worked for 7 consecutive days starting from 2023-09-17 23:27:00
+INFO:root:DeXgadiXXE REdarMe, ChrisMiaW S has less than 10 hours between shifts but greater than 1 hour (4.05 hours) starting from 2023-09-19 02:57:00
+INFO:root:DeXgadiXXE REdarMe, ChrisMiaW S has less than 10 hours between shifts but greater than 1 hour (4.03 hours) starting from 2023-09-20 02:28:00
+INFO:root:DeXgadiXXE REdarMe, ChrisMiaW S has less than 10 hours between shifts but greater than 1 hour (5.15 hours) starting from 2023-09-21 00:21:00
+INFO:root:DiWh, DaA has less than 10 hours between shifts but greater than 1 hour (4.65 hours) starting from 2023-09-12 10:11:00
+INFO:root:DiWh, DaA has less than 10 hours between shifts but greater than 1 hour (4.38 hours) starting from 2023-09-14 10:13:00
+INFO:root:DiWh, DaA has less than 10 hours between shifts but greater than 1 hour (4.31 hours) starting from 2023-09-15 10:12:00
+INFO:root:DiWh, DaA has less than 10 hours between shifts but greater than 1 hour (5.12 hours) starting from 2023-09-16 09:53:00
+INFO:root:DiWh, DaA has less than 10 hours between shifts but greater than 1 hour (5.50 hours) starting from 2023-09-18 09:55:00
+INFO:root:DiWh, DaA has worked for 7 consecutive days starting from 2023-09-19 09:55:00
+INFO:root:DiWh, DaA has less than 10 hours between shifts but greater than 1 hour (5.13 hours) starting from 2023-09-19 09:55:00
+INFO:root:DiWh, DaA has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-21 09:55:00
+INFO:root:DiWh, DaA has less than 10 hours between shifts but greater than 1 hour (4.80 hours) starting from 2023-09-22 09:57:00
+INFO:root:DiXXard, JEwaWW Cedric has less than 10 hours between shifts but greater than 1 hour (4.83 hours) starting from 2023-09-10 10:11:00
+INFO:root:DiXXard, JEwaWW Cedric has less than 10 hours between shifts but greater than 1 hour (4.83 hours) starting from 2023-09-11 10:10:00
+INFO:root:DiXXard, JEwaWW Cedric has less than 10 hours between shifts but greater than 1 hour (4.82 hours) starting from 2023-09-12 10:11:00
+INFO:root:DiXXard, JEwaWW Cedric has less than 10 hours between shifts but greater than 1 hour (4.82 hours) starting from 2023-09-13 10:11:00
+INFO:root:DiXXard, JEwaWW Cedric has less than 10 hours between shifts but greater than 1 hour (4.84 hours) starting from 2023-09-14 10:10:00
+INFO:root:DiXXard, JEwaWW Cedric has less than 10 hours between shifts but greater than 1 hour (4.28 hours) starting from 2023-09-17 10:43:00
+INFO:root:DiXXard, JEwaWW Cedric has less than 10 hours between shifts but greater than 1 hour (3.80 hours) starting from 2023-09-18 10:42:00
+INFO:root:DiXXard, JEwaWW Cedric has worked for 7 consecutive days starting from 2023-09-18 14:30:00
+INFO:root:DiXXard, JEwaWW Cedric has less than 10 hours between shifts but greater than 1 hour (5.09 hours) starting from 2023-09-19 09:55:00
+INFO:root:DiXXard, JEwaWW Cedric has less than 10 hours between shifts but greater than 1 hour (5.10 hours) starting from 2023-09-20 09:55:00
+INFO:root:DiXXard, JEwaWW Cedric has less than 10 hours between shifts but greater than 1 hour (5.42 hours) starting from 2023-09-21 09:56:00
+INFO:root:Diaz GaXvez, RicardE JEsAe has less than 10 hours between shifts but greater than 1 hour (4.84 hours) starting from 2023-09-10 10:10:00
+INFO:root:Diaz GaXvez, RicardE JEsAe has less than 10 hours between shifts but greater than 1 hour (4.57 hours) starting from 2023-09-12 10:25:59
+INFO:root:Diaz GaXvez, RicardE JEsAe has less than 10 hours between shifts but greater than 1 hour (4.76 hours) starting from 2023-09-13 10:15:00
+INFO:root:Diaz GaXvez, RicardE JEsAe has less than 10 hours between shifts but greater than 1 hour (4.84 hours) starting from 2023-09-15 10:10:00
+INFO:root:Diaz GaXvez, RicardE JEsAe has less than 10 hours between shifts but greater than 1 hour (4.33 hours) starting from 2023-09-16 10:41:00
+INFO:root:Diaz GaXvez, RicardE JEsAe has less than 10 hours between shifts but greater than 1 hour (4.20 hours) starting from 2023-09-17 10:49:00
+INFO:root:Diaz GaXvez, RicardE JEsAe has worked for 7 consecutive days starting from 2023-09-18 10:50:44
+INFO:root:Diaz GaXvez, RicardE JEsAe has less than 10 hours between shifts but greater than 1 hour (4.15 hours) starting from 2023-09-18 10:50:44
+INFO:root:Diaz GaXvez, RicardE JEsAe has less than 10 hours between shifts but greater than 1 hour (4.82 hours) starting from 2023-09-20 10:41:00
+INFO:root:Diaz GaXvez, RicardE JEsAe has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-22 10:00:00
+INFO:root:EXivares, FeXCaW has less than 10 hours between shifts but greater than 1 hour (4.85 hours) starting from 2023-09-11 10:10:00
+INFO:root:EXivares, FeXCaW has worked for 7 consecutive days starting from 2023-09-11 15:00:58
+INFO:root:EXivares, FeXCaW has less than 10 hours between shifts but greater than 1 hour (4.84 hours) starting from 2023-09-13 10:10:00
+INFO:root:EXivares, FeXCaW has less than 10 hours between shifts but greater than 1 hour (4.41 hours) starting from 2023-09-15 10:36:00
+INFO:root:EXivares, FeXCaW has less than 10 hours between shifts but greater than 1 hour (2.83 hours) starting from 2023-09-16 10:41:00
+INFO:root:EXivares, FeXCaW has less than 10 hours between shifts but greater than 1 hour (5.03 hours) starting from 2023-09-18 09:58:00
+INFO:root:EXivares, FeXCaW has less than 10 hours between shifts but greater than 1 hour (4.35 hours) starting from 2023-09-19 10:40:00
+INFO:root:EXivares, FeXCaW has worked for 7 consecutive days starting from 2023-09-19 15:00:44
+INFO:root:EXivares, FeXCaW has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-20 10:30:00
+INFO:root:EXivares, FeXCaW has less than 10 hours between shifts but greater than 1 hour (4.34 hours) starting from 2023-09-21 10:40:00
+INFO:root:EXivares, FeXCaW has less than 10 hours between shifts but greater than 1 hour (5.32 hours) starting from 2023-09-22 10:41:00
+INFO:root:EasMCaW, CichaeX has less than 10 hours between shifts but greater than 1 hour (4.43 hours) starting from 2023-09-10 10:11:00
+INFO:root:EasMCaW, CichaeX has less than 10 hours between shifts but greater than 1 hour (4.13 hours) starting from 2023-09-11 10:40:00
+INFO:root:EasMCaW, CichaeX has less than 10 hours between shifts but greater than 1 hour (4.45 hours) starting from 2023-09-14 10:11:00
+INFO:root:EasMCaW, CichaeX has less than 10 hours between shifts but greater than 1 hour (4.30 hours) starting from 2023-09-15 10:44:00
+INFO:root:EasMCaW, CichaeX has worked for 7 consecutive days starting from 2023-09-15 15:02:00
+INFO:root:EasMCaW, CichaeX has worked for 7 consecutive days starting from 2023-09-16 10:49:00
+INFO:root:EasMCaW, CichaeX has less than 10 hours between shifts but greater than 1 hour (4.23 hours) starting from 2023-09-16 10:49:00
+INFO:root:EasMCaW, CichaeX has worked for 7 consecutive days starting from 2023-09-16 15:03:00
+INFO:root:EasMCaW, CichaeX has worked for 7 consecutive days starting from 2023-09-17 10:47:00
+INFO:root:EasMCaW, CichaeX has less than 10 hours between shifts but greater than 1 hour (3.88 hours) starting from 2023-09-17 10:47:00
+INFO:root:EasMCaW, CichaeX has worked for 7 consecutive days starting from 2023-09-17 14:40:00
+INFO:root:EasMCaW, CichaeX has less than 10 hours between shifts but greater than 1 hour (3.60 hours) starting from 2023-09-18 10:40:00
+INFO:root:EasMCaW, CichaeX has less than 10 hours between shifts but greater than 1 hour (3.08 hours) starting from 2023-09-22 10:44:00
+INFO:root:EasMCaW, CichaeX has less than 10 hours between shifts but greater than 1 hour (3.37 hours) starting from 2023-09-23 10:46:00
+INFO:root:ErEpeza, JEvaW has less than 10 hours between shifts but greater than 1 hour (3.91 hours) starting from 2023-09-13 02:35:22
+INFO:root:ErEpeza, JEvaW has less than 10 hours between shifts but greater than 1 hour (4.38 hours) starting from 2023-09-17 03:07:00
+INFO:root:ErEpeza, JEvaW has less than 10 hours between shifts but greater than 1 hour (4.56 hours) starting from 2023-09-20 00:27:00
+INFO:root:ErEpeza, JEvaW has worked for 7 consecutive days starting from 2023-09-20 05:00:49
+INFO:root:ErEpeza, JEvaW has less than 10 hours between shifts but greater than 1 hour (3.28 hours) starting from 2023-09-20 23:56:00
+INFO:root:ErEpeza, JEvaW has less than 10 hours between shifts but greater than 1 hour (4.22 hours) starting from 2023-09-21 23:17:00
+INFO:root:ErEpeza, JEvaW has less than 10 hours between shifts but greater than 1 hour (3.98 hours) starting from 2023-09-23 02:31:00
+INFO:root:ErEzcE, SaAX has less than 10 hours between shifts but greater than 1 hour (4.97 hours) starting from 2023-09-12 01:50:00
+INFO:root:ErEzcE, SaAX has worked for 7 consecutive days starting from 2023-09-12 06:48:00
+INFO:root:ErEzcE, SaAX has less than 10 hours between shifts but greater than 1 hour (5.15 hours) starting from 2023-09-13 01:38:00
+INFO:root:ErEzcE, SaAX has worked for 7 consecutive days starting from 2023-09-13 06:47:00
+INFO:root:ErEzcE, SaAX has less than 10 hours between shifts but greater than 1 hour (4.82 hours) starting from 2023-09-14 01:41:00
+INFO:root:ErEzcE, SaAX has worked for 7 consecutive days starting from 2023-09-14 06:30:00
+INFO:root:ErEzcE, SaAX has worked for 7 consecutive days starting from 2023-09-16 01:34:00
+INFO:root:ErEzcE, SaAX has less than 10 hours between shifts but greater than 1 hour (5.40 hours) starting from 2023-09-16 01:34:00
+INFO:root:ErEzcE, SaAX has worked for 7 consecutive days starting from 2023-09-16 06:58:00
+INFO:root:ErEzcE, SaAX has worked for 7 consecutive days starting from 2023-09-19 01:45:12
+INFO:root:ErEzcE, SaAX has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-19 01:45:12
+INFO:root:ErEzcE, SaAX has less than 10 hours between shifts but greater than 1 hour (4.24 hours) starting from 2023-09-20 01:46:00
+INFO:root:ErEzcE, SaAX has less than 10 hours between shifts but greater than 1 hour (4.70 hours) starting from 2023-09-21 23:23:00
+INFO:root:ErMiz, AGigaiX has less than 10 hours between shifts but greater than 1 hour (5.22 hours) starting from 2023-09-10 10:10:00
+INFO:root:ErMiz, AGigaiX has less than 10 hours between shifts but greater than 1 hour (5.32 hours) starting from 2023-09-11 10:05:00
+INFO:root:ErMiz, AGigaiX has less than 10 hours between shifts but greater than 1 hour (5.20 hours) starting from 2023-09-12 10:13:00
+INFO:root:ErMiz, AGigaiX has less than 10 hours between shifts but greater than 1 hour (5.32 hours) starting from 2023-09-15 10:43:00
+INFO:root:ErMiz, AGigaiX has less than 10 hours between shifts but greater than 1 hour (4.80 hours) starting from 2023-09-16 10:43:00
+INFO:root:ErMiz, AGigaiX has less than 10 hours between shifts but greater than 1 hour (5.09 hours) starting from 2023-09-17 09:55:00
+INFO:root:ErMiz, AGigaiX has less than 10 hours between shifts but greater than 1 hour (5.28 hours) starting from 2023-09-18 09:55:00
+INFO:root:ErMiz, AGigaiX has worked for 7 consecutive days starting from 2023-09-18 15:12:00
+INFO:root:ErMiz, AGigaiX has less than 10 hours between shifts but greater than 1 hour (5.17 hours) starting from 2023-09-21 10:21:00
+INFO:root:ErMiz, AGigaiX has less than 10 hours between shifts but greater than 1 hour (4.33 hours) starting from 2023-09-22 10:45:00
+INFO:root:ErMiz, AGigaiX has less than 10 hours between shifts but greater than 1 hour (5.42 hours) starting from 2023-09-23 10:30:00
+INFO:root:EsMrada, JEse FeXix has less than 10 hours between shifts but greater than 1 hour (3.53 hours) starting from 2023-09-10 02:35:00
+INFO:root:EsMrada, JEse FeXix has less than 10 hours between shifts but greater than 1 hour (4.38 hours) starting from 2023-09-11 02:37:00
+INFO:root:EsMrada, JEse FeXix has less than 10 hours between shifts but greater than 1 hour (4.25 hours) starting from 2023-09-12 02:15:00
+INFO:root:EsMrada, JEse FeXix has less than 10 hours between shifts but greater than 1 hour (3.50 hours) starting from 2023-09-17 03:00:00
+INFO:root:EsMrada, JEse FeXix has less than 10 hours between shifts but greater than 1 hour (3.77 hours) starting from 2023-09-18 02:15:00
+INFO:root:EsMrada, JEse FeXix has worked for 7 consecutive days starting from 2023-09-19 00:26:00
+INFO:root:EsMrada, JEse FeXix has less than 10 hours between shifts but greater than 1 hour (4.80 hours) starting from 2023-09-20 02:20:54
+INFO:root:EsMrada, JEse FeXix has less than 10 hours between shifts but greater than 1 hour (5.27 hours) starting from 2023-09-22 00:47:00
+INFO:root:EsMrada, JEse FeXix has less than 10 hours between shifts but greater than 1 hour (5.33 hours) starting from 2023-09-23 00:10:00
+INFO:root:FaGiaW CiraWda, JEse has less than 10 hours between shifts but greater than 1 hour (4.67 hours) starting from 2023-09-11 10:20:00
+INFO:root:FaGiaW CiraWda, JEse has less than 10 hours between shifts but greater than 1 hour (4.93 hours) starting from 2023-09-17 10:05:00
+INFO:root:FaGiaW CiraWda, JEse has less than 10 hours between shifts but greater than 1 hour (4.50 hours) starting from 2023-09-21 10:31:00
+INFO:root:FeXix, XeEWeX has worked for 7 consecutive days starting from 2023-09-10 00:17:00
+INFO:root:FeXix, XeEWeX has less than 10 hours between shifts but greater than 1 hour (4.47 hours) starting from 2023-09-10 00:17:00
+INFO:root:FeXix, XeEWeX has worked for 7 consecutive days starting from 2023-09-10 04:45:00
+INFO:root:FeXix, XeEWeX has worked for 7 consecutive days starting from 2023-09-11 00:00:00
+INFO:root:FeXix, XeEWeX has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-11 00:00:00
+INFO:root:FeXix, XeEWeX has worked for 7 consecutive days starting from 2023-09-11 04:45:00
+INFO:root:FeXix, XeEWeX has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-14 00:00:00
+INFO:root:FeXix, XeEWeX has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-16 00:00:00
+INFO:root:FeXix, XeEWeX has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-16 04:45:00
+INFO:root:FeXix, XeEWeX has less than 10 hours between shifts but greater than 1 hour (5.50 hours) starting from 2023-09-17 01:00:00
+INFO:root:FeXix, XeEWeX has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-17 23:00:00
+INFO:root:FeXix, XeEWeX has worked for 7 consecutive days starting from 2023-09-18 04:00:09
+INFO:root:FeXix, XeEWeX has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-20 23:00:00
+INFO:root:FeXix, XeEWeX has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-21 23:00:00
+INFO:root:FeXix, XeEWeX has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-22 23:00:00
+INFO:root:GAMierrez, PedrE CigAeX has worked for 7 consecutive days starting from 2023-09-10 00:59:00
+INFO:root:GAMierrez, PedrE CigAeX has less than 10 hours between shifts but greater than 1 hour (4.52 hours) starting from 2023-09-10 00:59:00
+INFO:root:GAMierrez, PedrE CigAeX has less than 10 hours between shifts but greater than 1 hour (4.58 hours) starting from 2023-09-12 01:55:00
+INFO:root:GAMierrez, PedrE CigAeX has worked for 7 consecutive days starting from 2023-09-12 06:30:00
+INFO:root:GAMierrez, PedrE CigAeX has less than 10 hours between shifts but greater than 1 hour (4.80 hours) starting from 2023-09-13 02:35:00
+INFO:root:GAMierrez, PedrE CigAeX has less than 10 hours between shifts but greater than 1 hour (5.58 hours) starting from 2023-09-16 00:55:00
+INFO:root:GAMierrez, PedrE CigAeX has less than 10 hours between shifts but greater than 1 hour (5.28 hours) starting from 2023-09-17 01:58:00
+INFO:root:GAMierrez, PedrE CigAeX has less than 10 hours between shifts but greater than 1 hour (4.74 hours) starting from 2023-09-19 02:45:26
+INFO:root:GAMierrez, PedrE CigAeX has less than 10 hours between shifts but greater than 1 hour (5.53 hours) starting from 2023-09-22 23:18:00
+INFO:root:GAeWdia, JAaW CarXEs has less than 10 hours between shifts but greater than 1 hour (4.60 hours) starting from 2023-09-10 00:54:00
+INFO:root:GAeWdia, JAaW CarXEs has less than 10 hours between shifts but greater than 1 hour (4.42 hours) starting from 2023-09-11 01:35:00
+INFO:root:GAeWdia, JAaW CarXEs has less than 10 hours between shifts but greater than 1 hour (4.47 hours) starting from 2023-09-12 01:32:00
+INFO:root:GAeWdia, JAaW CarXEs has less than 10 hours between shifts but greater than 1 hour (5.43 hours) starting from 2023-09-13 01:34:00
+INFO:root:GAeWdia, JAaW CarXEs has less than 10 hours between shifts but greater than 1 hour (4.93 hours) starting from 2023-09-14 01:34:00
+INFO:root:GAeWdia, JAaW CarXEs has less than 10 hours between shifts but greater than 1 hour (4.60 hours) starting from 2023-09-16 23:24:00
+INFO:root:GAeWdia, JAaW CarXEs has less than 10 hours between shifts but greater than 1 hour (4.93 hours) starting from 2023-09-18 01:04:00
+INFO:root:GAeWdia, JAaW CarXEs has less than 10 hours between shifts but greater than 1 hour (5.24 hours) starting from 2023-09-18 23:15:20
+INFO:root:GAeWdia, JAaW CarXEs has worked for 7 consecutive days starting from 2023-09-19 04:30:00
+INFO:root:GAeWdia, JAaW CarXEs has less than 10 hours between shifts but greater than 1 hour (5.30 hours) starting from 2023-09-20 02:12:00
+INFO:root:GAeWdia, JAaW CarXEs has less than 10 hours between shifts but greater than 1 hour (5.27 hours) starting from 2023-09-21 02:37:00
+INFO:root:GAeWdia, JAaW CarXEs has less than 10 hours between shifts but greater than 1 hour (5.13 hours) starting from 2023-09-22 23:17:00
+INFO:root:GaWks, GryaW has less than 10 hours between shifts but greater than 1 hour (5.05 hours) starting from 2023-09-10 10:12:00
+INFO:root:GaWks, GryaW has less than 10 hours between shifts but greater than 1 hour (4.82 hours) starting from 2023-09-11 10:11:00
+INFO:root:GaWks, GryaW has less than 10 hours between shifts but greater than 1 hour (4.55 hours) starting from 2023-09-12 10:22:00
+INFO:root:GaWks, GryaW has less than 10 hours between shifts but greater than 1 hour (5.45 hours) starting from 2023-09-13 10:10:00
+INFO:root:GaWks, GryaW has less than 10 hours between shifts but greater than 1 hour (4.85 hours) starting from 2023-09-14 10:19:00
+INFO:root:GaWks, GryaW has less than 10 hours between shifts but greater than 1 hour (5.33 hours) starting from 2023-09-17 10:40:00
+INFO:root:GaWks, GryaW has less than 10 hours between shifts but greater than 1 hour (4.33 hours) starting from 2023-09-18 10:40:00
+INFO:root:GaWks, GryaW has worked for 7 consecutive days starting from 2023-09-18 15:00:00
+INFO:root:GaWks, GryaW has less than 10 hours between shifts but greater than 1 hour (5.32 hours) starting from 2023-09-19 10:01:00
+INFO:root:GaWks, GryaW has less than 10 hours between shifts but greater than 1 hour (4.95 hours) starting from 2023-09-20 10:03:00
+INFO:root:GaWks, GryaW has less than 10 hours between shifts but greater than 1 hour (5.23 hours) starting from 2023-09-21 10:01:00
+INFO:root:GaXCes, EXias XEpez has less than 10 hours between shifts but greater than 1 hour (3.99 hours) starting from 2023-09-15 08:00:55
+INFO:root:GaXCes, EXias XEpez has less than 10 hours between shifts but greater than 1 hour (3.98 hours) starting from 2023-09-16 08:30:56
+INFO:root:GaXCes, EXias XEpez has worked for 7 consecutive days starting from 2023-09-16 12:30:02
+INFO:root:GaXCes, EXias XEpez has less than 10 hours between shifts but greater than 1 hour (3.00 hours) starting from 2023-09-16 12:30:02
+INFO:root:GaXCes, EXias XEpez has worked for 7 consecutive days starting from 2023-09-16 15:30:11
+INFO:root:GaXCes, EXias XEpez has worked for 7 consecutive days starting from 2023-09-17 08:30:11
+INFO:root:GaXCes, EXias XEpez has less than 10 hours between shifts but greater than 1 hour (4.00 hours) starting from 2023-09-17 08:30:11
+INFO:root:GaXCes, EXias XEpez has less than 10 hours between shifts but greater than 1 hour (4.02 hours) starting from 2023-09-18 08:29:00
+INFO:root:GaXCes, EXias XEpez has less than 10 hours between shifts but greater than 1 hour (4.99 hours) starting from 2023-09-22 08:00:59
+INFO:root:GaXCes, EXias XEpez has less than 10 hours between shifts but greater than 1 hour (4.50 hours) starting from 2023-09-22 13:00:10
+INFO:root:GarWes, JAsMiW has less than 10 hours between shifts but greater than 1 hour (4.35 hours) starting from 2023-09-10 10:39:00
+INFO:root:GarWes, JAsMiW has worked for 7 consecutive days starting from 2023-09-10 15:00:00
+INFO:root:GarWes, JAsMiW has worked for 7 consecutive days starting from 2023-09-11 10:43:00
+INFO:root:GarWes, JAsMiW has less than 10 hours between shifts but greater than 1 hour (4.30 hours) starting from 2023-09-11 10:43:00
+INFO:root:GarWes, JAsMiW has less than 10 hours between shifts but greater than 1 hour (4.76 hours) starting from 2023-09-13 10:45:00
+INFO:root:GarWes, JAsMiW has less than 10 hours between shifts but greater than 1 hour (4.26 hours) starting from 2023-09-14 10:45:00
+INFO:root:GarWes, JAsMiW has less than 10 hours between shifts but greater than 1 hour (4.33 hours) starting from 2023-09-17 10:41:00
+INFO:root:GarWes, JAsMiW has less than 10 hours between shifts but greater than 1 hour (5.07 hours) starting from 2023-09-18 09:56:00
+INFO:root:GarWes, JAsMiW has worked for 7 consecutive days starting from 2023-09-18 15:00:00
+INFO:root:GarWes, JAsMiW has less than 10 hours between shifts but greater than 1 hour (4.92 hours) starting from 2023-09-19 10:06:00
+INFO:root:GarWes, JAsMiW has less than 10 hours between shifts but greater than 1 hour (4.96 hours) starting from 2023-09-20 10:03:00
+INFO:root:GarWes, JAsMiW has less than 10 hours between shifts but greater than 1 hour (5.35 hours) starting from 2023-09-21 09:54:00
+INFO:root:GrACfieXd, CErWeXiAs has less than 10 hours between shifts but greater than 1 hour (4.52 hours) starting from 2023-09-10 10:14:00
+INFO:root:GrACfieXd, CErWeXiAs has worked for 7 consecutive days starting from 2023-09-11 10:14:00
+INFO:root:GrACfieXd, CErWeXiAs has less than 10 hours between shifts but greater than 1 hour (4.77 hours) starting from 2023-09-11 10:14:00
+INFO:root:GrACfieXd, CErWeXiAs has less than 10 hours between shifts but greater than 1 hour (4.25 hours) starting from 2023-09-12 10:45:00
+INFO:root:GrACfieXd, CErWeXiAs has worked for 7 consecutive days starting from 2023-09-13 10:14:00
+INFO:root:GrACfieXd, CErWeXiAs has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-14 10:15:00
+INFO:root:GrACfieXd, CErWeXiAs has worked for 7 consecutive days starting from 2023-09-14 15:00:12
+INFO:root:GrACfieXd, CErWeXiAs has less than 10 hours between shifts but greater than 1 hour (4.28 hours) starting from 2023-09-17 10:43:00
+INFO:root:GrACfieXd, CErWeXiAs has worked for 7 consecutive days starting from 2023-09-17 15:00:02
+INFO:root:GrACfieXd, CErWeXiAs has less than 10 hours between shifts but greater than 1 hour (4.27 hours) starting from 2023-09-18 10:44:00
+INFO:root:GrACfieXd, CErWeXiAs has less than 10 hours between shifts but greater than 1 hour (4.77 hours) starting from 2023-09-19 10:44:00
+INFO:root:GrACfieXd, CErWeXiAs has less than 10 hours between shifts but greater than 1 hour (5.06 hours) starting from 2023-09-21 09:57:00
+INFO:root:HAWMer, ViWceWM De PaAX has less than 10 hours between shifts but greater than 1 hour (4.80 hours) starting from 2023-09-12 02:42:00
+INFO:root:HAWMer, ViWceWM De PaAX has less than 10 hours between shifts but greater than 1 hour (4.52 hours) starting from 2023-09-21 23:29:00
+INFO:root:HEGGie ErMega, SeGasMiaW CichaeX has less than 10 hours between shifts but greater than 1 hour (4.32 hours) starting from 2023-09-10 10:41:25
+INFO:root:HEGGie ErMega, SeGasMiaW CichaeX has less than 10 hours between shifts but greater than 1 hour (4.14 hours) starting from 2023-09-11 10:52:00
+INFO:root:HEGGie ErMega, SeGasMiaW CichaeX has less than 10 hours between shifts but greater than 1 hour (4.78 hours) starting from 2023-09-13 10:44:00
+INFO:root:HEGGie ErMega, SeGasMiaW CichaeX has worked for 7 consecutive days starting from 2023-09-13 15:30:39
+INFO:root:HEGGie ErMega, SeGasMiaW CichaeX has less than 10 hours between shifts but greater than 1 hour (4.43 hours) starting from 2023-09-17 11:05:00
+INFO:root:HEGGie ErMega, SeGasMiaW CichaeX has worked for 7 consecutive days starting from 2023-09-17 15:30:35
+INFO:root:HEGGie ErMega, SeGasMiaW CichaeX has less than 10 hours between shifts but greater than 1 hour (4.28 hours) starting from 2023-09-18 10:43:00
+INFO:root:HEGGie ErMega, SeGasMiaW CichaeX has less than 10 hours between shifts but greater than 1 hour (4.66 hours) starting from 2023-09-19 10:51:00
+INFO:root:HEGGie ErMega, SeGasMiaW CichaeX has less than 10 hours between shifts but greater than 1 hour (5.21 hours) starting from 2023-09-21 10:48:00
+INFO:root:HaCiXMEW, DeaWMe DevEW has less than 10 hours between shifts but greater than 1 hour (5.29 hours) starting from 2023-09-14 10:30:00
+INFO:root:HaCiXMEW, DeaWMe DevEW has less than 10 hours between shifts but greater than 1 hour (5.21 hours) starting from 2023-09-15 10:10:00
+INFO:root:HaCiXMEW, DeaWMe DevEW has less than 10 hours between shifts but greater than 1 hour (5.42 hours) starting from 2023-09-16 10:40:00
+INFO:root:HaCiXMEW, DeaWMe DevEW has less than 10 hours between shifts but greater than 1 hour (4.98 hours) starting from 2023-09-21 10:31:00
+INFO:root:HaCiXMEW, DeaWMe DevEW has less than 10 hours between shifts but greater than 1 hour (3.25 hours) starting from 2023-09-21 15:30:00
+INFO:root:HaCiXMEW, DeaWMe DevEW has less than 10 hours between shifts but greater than 1 hour (5.15 hours) starting from 2023-09-22 10:40:00
+INFO:root:HerCEsiXXE, PedrE has less than 10 hours between shifts but greater than 1 hour (4.82 hours) starting from 2023-09-12 10:11:00
+INFO:root:HerCEsiXXE, PedrE has less than 10 hours between shifts but greater than 1 hour (4.82 hours) starting from 2023-09-13 10:11:00
+INFO:root:HerCEsiXXE, PedrE has less than 10 hours between shifts but greater than 1 hour (4.77 hours) starting from 2023-09-14 10:14:00
+INFO:root:HerCEsiXXE, PedrE has less than 10 hours between shifts but greater than 1 hour (4.76 hours) starting from 2023-09-15 10:15:00
+INFO:root:HerCEsiXXE, PedrE has less than 10 hours between shifts but greater than 1 hour (5.01 hours) starting from 2023-09-16 10:00:00
+INFO:root:HerCEsiXXE, PedrE has less than 10 hours between shifts but greater than 1 hour (4.97 hours) starting from 2023-09-19 10:02:00
+INFO:root:HerCEsiXXE, PedrE has worked for 7 consecutive days starting from 2023-09-20 10:00:00
+INFO:root:HerCEsiXXE, PedrE has less than 10 hours between shifts but greater than 1 hour (5.01 hours) starting from 2023-09-20 10:00:00
+INFO:root:HerCEsiXXE, PedrE has less than 10 hours between shifts but greater than 1 hour (5.44 hours) starting from 2023-09-21 09:59:00
+INFO:root:HerCEsiXXE, PedrE has less than 10 hours between shifts but greater than 1 hour (5.45 hours) starting from 2023-09-22 10:03:00
+INFO:root:HerWaWdez SaWchez, AWdrew AWMhEWy has less than 10 hours between shifts but greater than 1 hour (4.83 hours) starting from 2023-09-10 10:11:00
+INFO:root:HerWaWdez SaWchez, AWdrew AWMhEWy has less than 10 hours between shifts but greater than 1 hour (4.83 hours) starting from 2023-09-12 10:10:00
+INFO:root:HerWaWdez SaWchez, AWdrew AWMhEWy has less than 10 hours between shifts but greater than 1 hour (4.52 hours) starting from 2023-09-14 10:30:00
+INFO:root:HerWaWdez SaWchez, AWdrew AWMhEWy has less than 10 hours between shifts but greater than 1 hour (4.54 hours) starting from 2023-09-15 10:28:00
+INFO:root:HerWaWdez SaWchez, AWdrew AWMhEWy has less than 10 hours between shifts but greater than 1 hour (4.35 hours) starting from 2023-09-16 10:40:00
+INFO:root:HerWaWdez SaWchez, AWdrew AWMhEWy has less than 10 hours between shifts but greater than 1 hour (4.33 hours) starting from 2023-09-17 10:40:00
+INFO:root:HerWaWdez SaWchez, AWdrew AWMhEWy has worked for 7 consecutive days starting from 2023-09-19 10:10:00
+INFO:root:HerWaWdez SaWchez, AWdrew AWMhEWy has less than 10 hours between shifts but greater than 1 hour (4.85 hours) starting from 2023-09-19 10:10:00
+INFO:root:HerWaWdez SaWchez, AWdrew AWMhEWy has less than 10 hours between shifts but greater than 1 hour (4.84 hours) starting from 2023-09-20 10:40:00
+INFO:root:HerWaWdez SaWchez, AWdrew AWMhEWy has less than 10 hours between shifts but greater than 1 hour (4.33 hours) starting from 2023-09-22 10:40:00
+INFO:root:IWGEAa, JeffersEW has less than 10 hours between shifts but greater than 1 hour (3.02 hours) starting from 2023-09-11 02:55:00
+INFO:root:IWGEAa, JeffersEW has less than 10 hours between shifts but greater than 1 hour (2.58 hours) starting from 2023-09-12 02:55:00
+INFO:root:IWGEAa, JeffersEW has worked for 7 consecutive days starting from 2023-09-17 01:57:00
+INFO:root:IWGEAa, JeffersEW has less than 10 hours between shifts but greater than 1 hour (4.05 hours) starting from 2023-09-17 01:57:00
+INFO:root:IWGEAa, JeffersEW has worked for 7 consecutive days starting from 2023-09-17 06:00:00
+INFO:root:IWGEAa, JeffersEW has less than 10 hours between shifts but greater than 1 hour (3.33 hours) starting from 2023-09-22 02:24:00
+INFO:root:IWGEAa, JeffersEW has less than 10 hours between shifts but greater than 1 hour (2.92 hours) starting from 2023-09-23 01:05:00
+INFO:root:JerEWiCE CEraXes, CarXEs D has less than 10 hours between shifts but greater than 1 hour (4.82 hours) starting from 2023-09-10 10:15:00
+INFO:root:JerEWiCE CEraXes, CarXEs D has less than 10 hours between shifts but greater than 1 hour (4.38 hours) starting from 2023-09-12 10:37:00
+INFO:root:JerEWiCE CEraXes, CarXEs D has less than 10 hours between shifts but greater than 1 hour (4.73 hours) starting from 2023-09-13 10:46:00
+INFO:root:JerEWiCE CEraXes, CarXEs D has less than 10 hours between shifts but greater than 1 hour (5.34 hours) starting from 2023-09-14 10:44:00
+INFO:root:JerEWiCE CEraXes, CarXEs D has worked for 7 consecutive days starting from 2023-09-14 16:04:13
+INFO:root:JerEWiCE CEraXes, CarXEs D has less than 10 hours between shifts but greater than 1 hour (4.80 hours) starting from 2023-09-16 10:42:00
+INFO:root:JerEWiCE CEraXes, CarXEs D has less than 10 hours between shifts but greater than 1 hour (4.27 hours) starting from 2023-09-17 10:44:00
+INFO:root:JerEWiCE CEraXes, CarXEs D has less than 10 hours between shifts but greater than 1 hour (4.20 hours) starting from 2023-09-18 10:30:00
+INFO:root:MAake, CasiaWE has worked for 7 consecutive days starting from 2023-09-12 01:55:00
+INFO:root:MAake, CasiaWE has less than 10 hours between shifts but greater than 1 hour (4.58 hours) starting from 2023-09-12 01:55:00
+INFO:root:MAake, CasiaWE has less than 10 hours between shifts but greater than 1 hour (4.97 hours) starting from 2023-09-13 02:02:00
+INFO:root:MAake, CasiaWE has less than 10 hours between shifts but greater than 1 hour (4.92 hours) starting from 2023-09-16 00:35:00
+INFO:root:MAake, CasiaWE has less than 10 hours between shifts but greater than 1 hour (4.13 hours) starting from 2023-09-22 02:52:00
+INFO:root:MAake, CasiaWE has less than 10 hours between shifts but greater than 1 hour (4.56 hours) starting from 2023-09-22 23:57:00
+INFO:root:MAcker, CichaeX has less than 10 hours between shifts but greater than 1 hour (4.80 hours) starting from 2023-09-12 10:12:00
+INFO:root:MAcker, CichaeX has less than 10 hours between shifts but greater than 1 hour (5.10 hours) starting from 2023-09-13 10:14:00
+INFO:root:MAcker, CichaeX has less than 10 hours between shifts but greater than 1 hour (5.12 hours) starting from 2023-09-14 10:10:00
+INFO:root:MAcker, CichaeX has less than 10 hours between shifts but greater than 1 hour (5.17 hours) starting from 2023-09-15 10:10:00
+INFO:root:MAcker, CichaeX has less than 10 hours between shifts but greater than 1 hour (5.07 hours) starting from 2023-09-16 09:57:00
+INFO:root:MAcker, CichaeX has less than 10 hours between shifts but greater than 1 hour (4.91 hours) starting from 2023-09-19 10:06:00
+INFO:root:MAcker, CichaeX has worked for 7 consecutive days starting from 2023-09-20 10:00:00
+INFO:root:MAcker, CichaeX has less than 10 hours between shifts but greater than 1 hour (5.13 hours) starting from 2023-09-20 10:00:00
+INFO:root:MAcker, CichaeX has less than 10 hours between shifts but greater than 1 hour (4.87 hours) starting from 2023-09-21 10:43:00
+INFO:root:MAcker, CichaeX has less than 10 hours between shifts but greater than 1 hour (4.53 hours) starting from 2023-09-23 10:40:00
+INFO:root:MaXeGi, ACirCasEAd has worked for 7 consecutive days starting from 2023-09-13 10:14:00
+INFO:root:MaXeGi, ACirCasEAd has less than 10 hours between shifts but greater than 1 hour (5.03 hours) starting from 2023-09-13 10:14:00
+INFO:root:MaXeGi, ACirCasEAd has worked for 7 consecutive days starting from 2023-09-13 15:16:00
+INFO:root:MaXeGi, ACirCasEAd has less than 10 hours between shifts but greater than 1 hour (5.12 hours) starting from 2023-09-14 10:10:00
+INFO:root:MaXeGi, ACirCasEAd has less than 10 hours between shifts but greater than 1 hour (5.17 hours) starting from 2023-09-15 10:10:00
+INFO:root:MaXeGi, ACirCasEAd has worked for 7 consecutive days starting from 2023-09-20 10:30:00
+INFO:root:MaXeGi, ACirCasEAd has less than 10 hours between shifts but greater than 1 hour (4.87 hours) starting from 2023-09-21 10:43:00
+INFO:root:MaXeGi, ACirCasEAd has less than 10 hours between shifts but greater than 1 hour (5.31 hours) starting from 2023-09-22 10:02:00
+INFO:root:MaXeGi, ACirCasEAd has less than 10 hours between shifts but greater than 1 hour (4.52 hours) starting from 2023-09-23 10:41:00
+INFO:root:Merrazas, GriaW has less than 10 hours between shifts but greater than 1 hour (4.78 hours) starting from 2023-09-10 10:10:00
+INFO:root:Merrazas, GriaW has less than 10 hours between shifts but greater than 1 hour (5.07 hours) starting from 2023-09-11 10:11:00
+INFO:root:Merrazas, GriaW has less than 10 hours between shifts but greater than 1 hour (4.34 hours) starting from 2023-09-15 10:10:00
+INFO:root:Merrazas, GriaW has less than 10 hours between shifts but greater than 1 hour (4.52 hours) starting from 2023-09-18 09:58:00
+INFO:root:Merrazas, GriaW has less than 10 hours between shifts but greater than 1 hour (5.08 hours) starting from 2023-09-22 09:55:00
+INFO:root:Merrazas, GriaW has less than 10 hours between shifts but greater than 1 hour (3.13 hours) starting from 2023-09-23 09:55:00
+INFO:root:MraW, WiXXiaC Ha has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-10 09:30:37
+INFO:root:MraW, WiXXiaC Ha has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-11 12:00:42
+INFO:root:MraW, WiXXiaC Ha has less than 10 hours between shifts but greater than 1 hour (5.01 hours) starting from 2023-09-12 14:30:03
+INFO:root:MraW, WiXXiaC Ha has less than 10 hours between shifts but greater than 1 hour (5.01 hours) starting from 2023-09-13 14:00:00
+INFO:root:MraW, WiXXiaC Ha has less than 10 hours between shifts but greater than 1 hour (4.50 hours) starting from 2023-09-14 08:30:05
+INFO:root:MraW, WiXXiaC Ha has worked for 7 consecutive days starting from 2023-09-14 13:00:10
+INFO:root:MraW, WiXXiaC Ha has less than 10 hours between shifts but greater than 1 hour (4.99 hours) starting from 2023-09-17 09:00:48
+INFO:root:MraW, WiXXiaC Ha has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-18 14:30:00
+INFO:root:MraW, WiXXiaC Ha has worked for 7 consecutive days starting from 2023-09-19 14:00:10
+INFO:root:MraW, WiXXiaC Ha has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-19 14:00:10
+INFO:root:MraW, WiXXiaC Ha has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-20 14:00:47
+INFO:root:MraW, WiXXiaC Ha has less than 10 hours between shifts but greater than 1 hour (5.01 hours) starting from 2023-09-21 08:00:11
+INFO:root:MraW, WiXXiaC Ha has less than 10 hours between shifts but greater than 1 hour (4.99 hours) starting from 2023-09-21 13:00:42
+INFO:root:PaAXE, KyXe has less than 10 hours between shifts but greater than 1 hour (4.26 hours) starting from 2023-09-12 10:45:00
+INFO:root:PaAXE, KyXe has less than 10 hours between shifts but greater than 1 hour (4.18 hours) starting from 2023-09-13 10:49:00
+INFO:root:PaAXE, KyXe has less than 10 hours between shifts but greater than 1 hour (4.37 hours) starting from 2023-09-18 10:00:00
+INFO:root:PaAXE, KyXe has less than 10 hours between shifts but greater than 1 hour (4.66 hours) starting from 2023-09-19 10:51:00
+INFO:root:PaAXE, KyXe has less than 10 hours between shifts but greater than 1 hour (3.30 hours) starting from 2023-09-20 12:12:00
+INFO:root:PaXaciE, JEWaMhaW has less than 10 hours between shifts but greater than 1 hour (4.85 hours) starting from 2023-09-10 01:09:00
+INFO:root:PaXaciE, JEWaMhaW has less than 10 hours between shifts but greater than 1 hour (3.84 hours) starting from 2023-09-13 01:39:00
+INFO:root:PaXaciE, JEWaMhaW has worked for 7 consecutive days starting from 2023-09-13 05:29:37
+INFO:root:PaXaciE, JEWaMhaW has worked for 7 consecutive days starting from 2023-09-14 02:00:00
+INFO:root:PaXaciE, JEWaMhaW has less than 10 hours between shifts but greater than 1 hour (3.72 hours) starting from 2023-09-14 02:00:00
+INFO:root:PaXaciE, JEWaMhaW has less than 10 hours between shifts but greater than 1 hour (4.70 hours) starting from 2023-09-16 01:28:00
+INFO:root:PaXaciE, JEWaMhaW has less than 10 hours between shifts but greater than 1 hour (4.25 hours) starting from 2023-09-17 01:00:00
+INFO:root:PaXaciE, JEWaMhaW has worked for 7 consecutive days starting from 2023-09-17 05:15:00
+INFO:root:PaXaciE, JEWaMhaW has less than 10 hours between shifts but greater than 1 hour (4.78 hours) starting from 2023-09-20 01:59:00
+INFO:root:PaXaciE, JEWaMhaW has less than 10 hours between shifts but greater than 1 hour (4.37 hours) starting from 2023-09-21 01:09:00
+INFO:root:PaXaciE, JEWaMhaW has less than 10 hours between shifts but greater than 1 hour (4.67 hours) starting from 2023-09-22 01:10:00
+INFO:root:PayaW, DaWieX has worked for 7 consecutive days starting from 2023-09-12 02:25:00
+INFO:root:PayaW, DaWieX has less than 10 hours between shifts but greater than 1 hour (4.58 hours) starting from 2023-09-12 02:25:00
+INFO:root:PayaW, DaWieX has less than 10 hours between shifts but greater than 1 hour (4.86 hours) starting from 2023-09-13 02:25:29
+INFO:root:PayaW, DaWieX has less than 10 hours between shifts but greater than 1 hour (4.77 hours) starting from 2023-09-14 02:25:00
+INFO:root:PayaW, DaWieX has less than 10 hours between shifts but greater than 1 hour (5.24 hours) starting from 2023-09-20 02:16:10
+INFO:root:PayaW, DaWieX has worked for 7 consecutive days starting from 2023-09-20 07:30:23
+INFO:root:PayaW, DaWieX has less than 10 hours between shifts but greater than 1 hour (4.53 hours) starting from 2023-09-21 01:58:00
+INFO:root:PayaW, DaWieX has less than 10 hours between shifts but greater than 1 hour (5.25 hours) starting from 2023-09-22 01:15:00
+INFO:root:PayaW, DaWieX has less than 10 hours between shifts but greater than 1 hour (5.12 hours) starting from 2023-09-23 02:21:00
+INFO:root:Perez, EdwiW JiCeWez has worked for 7 consecutive days starting from 2023-09-10 10:40:00
+INFO:root:Perez, EdwiW JiCeWez has less than 10 hours between shifts but greater than 1 hour (4.34 hours) starting from 2023-09-10 10:40:00
+INFO:root:Perez, EdwiW JiCeWez has worked for 7 consecutive days starting from 2023-09-11 10:35:00
+INFO:root:Perez, EdwiW JiCeWez has less than 10 hours between shifts but greater than 1 hour (4.43 hours) starting from 2023-09-11 10:35:00
+INFO:root:Perez, EdwiW JiCeWez has less than 10 hours between shifts but greater than 1 hour (4.85 hours) starting from 2023-09-13 10:09:00
+INFO:root:Perez, EdwiW JiCeWez has less than 10 hours between shifts but greater than 1 hour (4.35 hours) starting from 2023-09-16 10:40:00
+INFO:root:Perez, EdwiW JiCeWez has less than 10 hours between shifts but greater than 1 hour (5.10 hours) starting from 2023-09-17 09:55:00
+INFO:root:Perez, EdwiW JiCeWez has worked for 7 consecutive days starting from 2023-09-18 09:56:00
+INFO:root:Perez, EdwiW JiCeWez has less than 10 hours between shifts but greater than 1 hour (5.02 hours) starting from 2023-09-18 09:56:00
+INFO:root:Perez, EdwiW JiCeWez has less than 10 hours between shifts but greater than 1 hour (5.06 hours) starting from 2023-09-19 09:57:00
+INFO:root:Perez, EdwiW JiCeWez has less than 10 hours between shifts but greater than 1 hour (5.08 hours) starting from 2023-09-20 09:55:00
+INFO:root:PerkiWs, MarraWce has less than 10 hours between shifts but greater than 1 hour (4.50 hours) starting from 2023-09-11 01:00:00
+INFO:root:PerkiWs, MarraWce has less than 10 hours between shifts but greater than 1 hour (5.35 hours) starting from 2023-09-13 02:59:00
+INFO:root:PerkiWs, MarraWce has less than 10 hours between shifts but greater than 1 hour (5.13 hours) starting from 2023-09-18 00:22:00
+INFO:root:PerkiWs, MarraWce has less than 10 hours between shifts but greater than 1 hour (4.68 hours) starting from 2023-09-19 02:19:00
+INFO:root:PerkiWs, MarraWce has worked for 7 consecutive days starting from 2023-09-19 07:00:00
+INFO:root:PerkiWs, MarraWce has less than 10 hours between shifts but greater than 1 hour (4.98 hours) starting from 2023-09-20 03:01:00
+INFO:root:PerkiWs, MarraWce has less than 10 hours between shifts but greater than 1 hour (5.05 hours) starting from 2023-09-22 00:27:00
+INFO:root:PerkiWs, MarraWce has less than 10 hours between shifts but greater than 1 hour (4.50 hours) starting from 2023-09-23 01:21:00
+INFO:root:RAvaXcaGa GaWAeXEs, DaWieX JesAs has less than 10 hours between shifts but greater than 1 hour (4.82 hours) starting from 2023-09-11 10:11:00
+INFO:root:RAvaXcaGa GaWAeXEs, DaWieX JesAs has less than 10 hours between shifts but greater than 1 hour (4.34 hours) starting from 2023-09-12 10:40:00
+INFO:root:RAvaXcaGa GaWAeXEs, DaWieX JesAs has less than 10 hours between shifts but greater than 1 hour (4.37 hours) starting from 2023-09-13 10:38:00
+INFO:root:RAvaXcaGa GaWAeXEs, DaWieX JesAs has worked for 7 consecutive days starting from 2023-09-13 15:00:07
+INFO:root:RAvaXcaGa GaWAeXEs, DaWieX JesAs has worked for 7 consecutive days starting from 2023-09-14 10:41:00
+INFO:root:RAvaXcaGa GaWAeXEs, DaWieX JesAs has less than 10 hours between shifts but greater than 1 hour (4.32 hours) starting from 2023-09-14 10:41:00
+INFO:root:RAvaXcaGa GaWAeXEs, DaWieX JesAs has less than 10 hours between shifts but greater than 1 hour (4.34 hours) starting from 2023-09-15 10:40:00
+INFO:root:RAvaXcaGa GaWAeXEs, DaWieX JesAs has less than 10 hours between shifts but greater than 1 hour (5.09 hours) starting from 2023-09-17 09:55:00
+INFO:root:RAvaXcaGa GaWAeXEs, DaWieX JesAs has worked for 7 consecutive days starting from 2023-09-17 15:00:33
+INFO:root:RAvaXcaGa GaWAeXEs, DaWieX JesAs has less than 10 hours between shifts but greater than 1 hour (4.82 hours) starting from 2023-09-20 10:41:00
+INFO:root:RAvaXcaGa GaWAeXEs, DaWieX JesAs has less than 10 hours between shifts but greater than 1 hour (5.33 hours) starting from 2023-09-21 10:41:00
+INFO:root:RAvaXcaGa GaWAeXEs, DaWieX JesAs has less than 10 hours between shifts but greater than 1 hour (3.82 hours) starting from 2023-09-22 10:41:00
+INFO:root:RECerE, SergiE has less than 10 hours between shifts but greater than 1 hour (4.79 hours) starting from 2023-09-14 10:13:00
+INFO:root:REdrigAez, AXexis GAMierrez has less than 10 hours between shifts but greater than 1 hour (4.17 hours) starting from 2023-09-15 10:50:28
+INFO:root:REdrigAez, AXexis GAMierrez has less than 10 hours between shifts but greater than 1 hour (4.20 hours) starting from 2023-09-22 10:48:00
+INFO:root:REdrigAez, GraWdEW AWgeX has less than 10 hours between shifts but greater than 1 hour (4.88 hours) starting from 2023-09-10 10:18:00
+INFO:root:REdrigAez, GraWdEW AWgeX has less than 10 hours between shifts but greater than 1 hour (4.40 hours) starting from 2023-09-11 10:43:00
+INFO:root:REdrigAez, GraWdEW AWgeX has less than 10 hours between shifts but greater than 1 hour (5.12 hours) starting from 2023-09-13 10:49:00
+INFO:root:REdrigAez, GraWdEW AWgeX has less than 10 hours between shifts but greater than 1 hour (5.45 hours) starting from 2023-09-14 10:48:00
+INFO:root:REdrigAez, GraWdEW AWgeX has less than 10 hours between shifts but greater than 1 hour (4.92 hours) starting from 2023-09-15 10:40:00
+INFO:root:REdrigAez, GraWdEW AWgeX has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-16 09:55:00
+INFO:root:REdrigAez, GraWdEW AWgeX has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-17 10:35:00
+INFO:root:REdrigAez, GraWdEW AWgeX has less than 10 hours between shifts but greater than 1 hour (4.12 hours) starting from 2023-09-18 10:40:00
+INFO:root:REdrigAez, GraWdEW AWgeX has worked for 7 consecutive days starting from 2023-09-18 14:47:00
+INFO:root:REdrigAez, GraWdEW AWgeX has less than 10 hours between shifts but greater than 1 hour (5.10 hours) starting from 2023-09-20 10:01:00
+INFO:root:REdrigAez, GraWdEW AWgeX has less than 10 hours between shifts but greater than 1 hour (5.34 hours) starting from 2023-09-22 10:40:00
+INFO:root:REdrigAez, GraWdEW AWgeX has less than 10 hours between shifts but greater than 1 hour (5.68 hours) starting from 2023-09-23 10:04:00
+INFO:root:REdrigAez, PedrE has less than 10 hours between shifts but greater than 1 hour (3.62 hours) starting from 2023-09-14 02:38:00
+INFO:root:REdrigAez, PedrE has worked for 7 consecutive days starting from 2023-09-14 06:15:00
+INFO:root:REdrigAez, PedrE has less than 10 hours between shifts but greater than 1 hour (4.33 hours) starting from 2023-09-16 02:40:00
+INFO:root:REdrigAez, PedrE has worked for 7 consecutive days starting from 2023-09-20 03:07:00
+INFO:root:REdrigAez, PedrE has less than 10 hours between shifts but greater than 1 hour (2.89 hours) starting from 2023-09-20 03:07:00
+INFO:root:REdrigAez, PedrE has less than 10 hours between shifts but greater than 1 hour (4.58 hours) starting from 2023-09-20 23:25:00
+INFO:root:REdrigAez, PedrE has less than 10 hours between shifts but greater than 1 hour (3.63 hours) starting from 2023-09-22 02:22:00
+INFO:root:REdrigAez, XAis has less than 10 hours between shifts but greater than 1 hour (4.85 hours) starting from 2023-09-10 10:10:11
+INFO:root:REdrigAez, XAis has less than 10 hours between shifts but greater than 1 hour (4.17 hours) starting from 2023-09-11 10:51:00
+INFO:root:REdrigAez, XAis has less than 10 hours between shifts but greater than 1 hour (4.34 hours) starting from 2023-09-12 10:40:00
+INFO:root:REdrigAez, XAis has worked for 7 consecutive days starting from 2023-09-12 15:00:13
+INFO:root:REdrigAez, XAis has less than 10 hours between shifts but greater than 1 hour (4.18 hours) starting from 2023-09-14 10:49:00
+INFO:root:REdrigAez, XAis has less than 10 hours between shifts but greater than 1 hour (4.32 hours) starting from 2023-09-15 10:41:00
+INFO:root:REdrigAez, XAis has worked for 7 consecutive days starting from 2023-09-15 15:00:00
+INFO:root:REdrigAez, XAis has worked for 7 consecutive days starting from 2023-09-16 10:31:00
+INFO:root:REdrigAez, XAis has less than 10 hours between shifts but greater than 1 hour (4.99 hours) starting from 2023-09-16 10:31:00
+INFO:root:REdrigAez, XAis has worked for 7 consecutive days starting from 2023-09-16 15:30:32
+INFO:root:REdrigAez, XAis has less than 10 hours between shifts but greater than 1 hour (5.08 hours) starting from 2023-09-19 09:55:00
+INFO:root:REdrigAez, XAis has worked for 7 consecutive days starting from 2023-09-19 15:00:00
+INFO:root:REdrigAez, XAis has less than 10 hours between shifts but greater than 1 hour (5.35 hours) starting from 2023-09-21 10:40:00
+INFO:root:REdrigAez, XAis has less than 10 hours between shifts but greater than 1 hour (5.34 hours) starting from 2023-09-22 10:40:00
+INFO:root:REsaXiaWE, XAis has less than 10 hours between shifts but greater than 1 hour (4.25 hours) starting from 2023-09-12 10:08:00
+INFO:root:REsaXiaWE, XAis has less than 10 hours between shifts but greater than 1 hour (4.70 hours) starting from 2023-09-13 10:08:00
+INFO:root:REsaXiaWE, XAis has less than 10 hours between shifts but greater than 1 hour (4.86 hours) starting from 2023-09-14 10:09:00
+INFO:root:REsaXiaWE, XAis has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-15 10:11:00
+INFO:root:REsaXiaWE, XAis has less than 10 hours between shifts but greater than 1 hour (5.49 hours) starting from 2023-09-16 09:51:00
+INFO:root:REsaXiaWE, XAis has less than 10 hours between shifts but greater than 1 hour (4.52 hours) starting from 2023-09-19 09:55:00
+INFO:root:REsaXiaWE, XAis has worked for 7 consecutive days starting from 2023-09-20 09:54:00
+INFO:root:REsaXiaWE, XAis has less than 10 hours between shifts but greater than 1 hour (4.80 hours) starting from 2023-09-20 09:54:00
+INFO:root:REsaXiaWE, XAis has less than 10 hours between shifts but greater than 1 hour (4.63 hours) starting from 2023-09-21 09:55:00
+INFO:root:REsaXiaWE, XAis has less than 10 hours between shifts but greater than 1 hour (5.42 hours) starting from 2023-09-22 09:55:00
+INFO:root:RaCEs HerWaWdez, AdieX ECar has less than 10 hours between shifts but greater than 1 hour (4.43 hours) starting from 2023-09-11 10:35:00
+INFO:root:RaCEs HerWaWdez, AdieX ECar has worked for 7 consecutive days starting from 2023-09-11 15:00:33
+INFO:root:RaCEs HerWaWdez, AdieX ECar has worked for 7 consecutive days starting from 2023-09-12 10:30:52
+INFO:root:RaCEs HerWaWdez, AdieX ECar has less than 10 hours between shifts but greater than 1 hour (4.50 hours) starting from 2023-09-12 10:30:52
+INFO:root:RaCEs HerWaWdez, AdieX ECar has worked for 7 consecutive days starting from 2023-09-12 15:00:58
+INFO:root:RaCEs HerWaWdez, AdieX ECar has less than 10 hours between shifts but greater than 1 hour (4.82 hours) starting from 2023-09-15 10:11:00
+INFO:root:RaCEs HerWaWdez, AdieX ECar has less than 10 hours between shifts but greater than 1 hour (4.69 hours) starting from 2023-09-16 10:19:00
+INFO:root:RaCEs HerWaWdez, AdieX ECar has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-18 10:00:00
+INFO:root:RaCEs HerWaWdez, AdieX ECar has worked for 7 consecutive days starting from 2023-09-20 10:00:00
+INFO:root:RaCEs HerWaWdez, AdieX ECar has less than 10 hours between shifts but greater than 1 hour (5.01 hours) starting from 2023-09-20 10:00:00
+INFO:root:RaCEs HerWaWdez, AdieX ECar has less than 10 hours between shifts but greater than 1 hour (4.92 hours) starting from 2023-09-21 10:05:00
+INFO:root:RaCEs HerWaWdez, AdieX ECar has less than 10 hours between shifts but greater than 1 hour (4.28 hours) starting from 2023-09-22 10:44:00
+INFO:root:Rivera AXcaWMar, GrayaW has less than 10 hours between shifts but greater than 1 hour (4.32 hours) starting from 2023-09-12 10:41:00
+INFO:root:Rivera AXcaWMar, GrayaW has less than 10 hours between shifts but greater than 1 hour (4.35 hours) starting from 2023-09-15 10:40:00
+INFO:root:Rivera AXcaWMar, GrayaW has less than 10 hours between shifts but greater than 1 hour (4.33 hours) starting from 2023-09-16 10:41:00
+INFO:root:Rivera AXcaWMar, GrayaW has less than 10 hours between shifts but greater than 1 hour (4.83 hours) starting from 2023-09-19 10:40:00
+INFO:root:Rivera AXcaWMar, GrayaW has less than 10 hours between shifts but greater than 1 hour (5.35 hours) starting from 2023-09-22 10:39:00
+INFO:root:SMrickXaWd, REdWey EAgeWe has less than 10 hours between shifts but greater than 1 hour (5.03 hours) starting from 2023-09-10 10:11:00
+INFO:root:SMrickXaWd, REdWey EAgeWe has less than 10 hours between shifts but greater than 1 hour (4.33 hours) starting from 2023-09-11 10:40:00
+INFO:root:SMrickXaWd, REdWey EAgeWe has less than 10 hours between shifts but greater than 1 hour (4.57 hours) starting from 2023-09-13 10:40:00
+INFO:root:SMrickXaWd, REdWey EAgeWe has less than 10 hours between shifts but greater than 1 hour (4.70 hours) starting from 2023-09-14 10:33:00
+INFO:root:SMrickXaWd, REdWey EAgeWe has less than 10 hours between shifts but greater than 1 hour (4.77 hours) starting from 2023-09-16 09:55:00
+INFO:root:SMrickXaWd, REdWey EAgeWe has less than 10 hours between shifts but greater than 1 hour (4.88 hours) starting from 2023-09-17 09:55:00
+INFO:root:SMrickXaWd, REdWey EAgeWe has less than 10 hours between shifts but greater than 1 hour (4.60 hours) starting from 2023-09-18 09:55:00
+INFO:root:SMrickXaWd, REdWey EAgeWe has worked for 7 consecutive days starting from 2023-09-18 14:31:00
+INFO:root:SMrickXaWd, REdWey EAgeWe has less than 10 hours between shifts but greater than 1 hour (4.87 hours) starting from 2023-09-19 10:12:00
+INFO:root:SMrickXaWd, REdWey EAgeWe has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-20 10:33:00
+INFO:root:SMrickXaWd, REdWey EAgeWe has less than 10 hours between shifts but greater than 1 hour (4.83 hours) starting from 2023-09-21 10:13:00
+INFO:root:SaWchez PaCpXEWa, CrisMiaW AXGerM has less than 10 hours between shifts but greater than 1 hour (4.32 hours) starting from 2023-09-11 10:40:49
+INFO:root:SaWchez PaCpXEWa, CrisMiaW AXGerM has worked for 7 consecutive days starting from 2023-09-11 15:00:00
+INFO:root:SaWchez PaCpXEWa, CrisMiaW AXGerM has less than 10 hours between shifts but greater than 1 hour (4.86 hours) starting from 2023-09-13 10:39:00
+INFO:root:SaWchez PaCpXEWa, CrisMiaW AXGerM has less than 10 hours between shifts but greater than 1 hour (4.32 hours) starting from 2023-09-15 10:41:00
+INFO:root:SaWchez PaCpXEWa, CrisMiaW AXGerM has less than 10 hours between shifts but greater than 1 hour (4.84 hours) starting from 2023-09-16 10:40:00
+INFO:root:SaWchez PaCpXEWa, CrisMiaW AXGerM has less than 10 hours between shifts but greater than 1 hour (5.28 hours) starting from 2023-09-21 10:44:00
+INFO:root:SaWchez, ArWAXfE has less than 10 hours between shifts but greater than 1 hour (4.55 hours) starting from 2023-09-11 02:17:00
+INFO:root:SaWchez, ArWAXfE has less than 10 hours between shifts but greater than 1 hour (4.70 hours) starting from 2023-09-16 02:48:00
+INFO:root:SaWchez, ArWAXfE has worked for 7 consecutive days starting from 2023-09-16 07:30:00
+INFO:root:SaWchez, ArWAXfE has worked for 7 consecutive days starting from 2023-09-17 01:38:00
+INFO:root:SaWchez, ArWAXfE has less than 10 hours between shifts but greater than 1 hour (5.37 hours) starting from 2023-09-17 01:38:00
+INFO:root:SaWchez, ArWAXfE has worked for 7 consecutive days starting from 2023-09-17 07:00:00
+INFO:root:SaWchez, ArWAXfE has less than 10 hours between shifts but greater than 1 hour (4.88 hours) starting from 2023-09-18 02:07:00
+INFO:root:SaWchez, ArWAXfE has less than 10 hours between shifts but greater than 1 hour (4.87 hours) starting from 2023-09-18 23:18:00
+INFO:root:SaWchez, ArWAXfE has less than 10 hours between shifts but greater than 1 hour (5.21 hours) starting from 2023-09-22 23:18:00
+INFO:root:SavaWg, JEhW has less than 10 hours between shifts but greater than 1 hour (5.17 hours) starting from 2023-09-12 01:05:00
+INFO:root:SavaWg, JEhW has worked for 7 consecutive days starting from 2023-09-12 06:15:00
+INFO:root:SavaWg, JEhW has less than 10 hours between shifts but greater than 1 hour (5.11 hours) starting from 2023-09-13 01:09:00
+INFO:root:SavaWg, JEhW has worked for 7 consecutive days starting from 2023-09-16 01:10:00
+INFO:root:SavaWg, JEhW has less than 10 hours between shifts but greater than 1 hour (5.33 hours) starting from 2023-09-16 01:10:00
+INFO:root:SavaWg, JEhW has worked for 7 consecutive days starting from 2023-09-16 06:30:00
+INFO:root:SavaWg, JEhW has less than 10 hours between shifts but greater than 1 hour (4.57 hours) starting from 2023-09-18 01:25:34
+INFO:root:SavaWg, JEhW has less than 10 hours between shifts but greater than 1 hour (4.65 hours) starting from 2023-09-21 02:21:00
+INFO:root:SavaWg, JEhW has less than 10 hours between shifts but greater than 1 hour (5.05 hours) starting from 2023-09-22 00:37:00
+INFO:root:SiWgXeMEW, REger has less than 10 hours between shifts but greater than 1 hour (4.96 hours) starting from 2023-09-10 10:03:00
+INFO:root:SiWgXeMEW, REger has less than 10 hours between shifts but greater than 1 hour (4.77 hours) starting from 2023-09-12 10:14:00
+INFO:root:SiWgXeMEW, REger has less than 10 hours between shifts but greater than 1 hour (4.77 hours) starting from 2023-09-13 10:14:00
+INFO:root:SiWgXeMEW, REger has less than 10 hours between shifts but greater than 1 hour (4.81 hours) starting from 2023-09-14 10:12:00
+INFO:root:SiWgXeMEW, REger has less than 10 hours between shifts but greater than 1 hour (4.83 hours) starting from 2023-09-15 10:10:42
+INFO:root:SiWgXeMEW, REger has less than 10 hours between shifts but greater than 1 hour (4.99 hours) starting from 2023-09-16 10:01:00
+INFO:root:SiWgXeMEW, REger has less than 10 hours between shifts but greater than 1 hour (4.92 hours) starting from 2023-09-19 10:05:00
+INFO:root:SiWgXeMEW, REger has worked for 7 consecutive days starting from 2023-09-20 09:57:00
+INFO:root:SiWgXeMEW, REger has less than 10 hours between shifts but greater than 1 hour (5.05 hours) starting from 2023-09-20 09:57:00
+INFO:root:SiWgXeMEW, REger has less than 10 hours between shifts but greater than 1 hour (5.05 hours) starting from 2023-09-21 09:57:00
+INFO:root:SiWgXeMEW, REger has less than 10 hours between shifts but greater than 1 hour (5.02 hours) starting from 2023-09-22 09:59:00
+INFO:root:SiWgh, CaWpreeM has less than 10 hours between shifts but greater than 1 hour (4.87 hours) starting from 2023-09-11 02:38:00
+INFO:root:SiWgh, CaWpreeM has less than 10 hours between shifts but greater than 1 hour (5.08 hours) starting from 2023-09-17 01:15:00
+INFO:root:SiWgh, CaWpreeM has less than 10 hours between shifts but greater than 1 hour (5.25 hours) starting from 2023-09-20 23:15:00
+INFO:root:SiWgh, CaWpreeM has less than 10 hours between shifts but greater than 1 hour (4.58 hours) starting from 2023-09-23 02:55:00
+INFO:root:SiWgh, JaspreeM has less than 10 hours between shifts but greater than 1 hour (3.58 hours) starting from 2023-09-10 01:55:00
+INFO:root:SiWgh, JaspreeM has less than 10 hours between shifts but greater than 1 hour (4.58 hours) starting from 2023-09-11 00:55:00
+INFO:root:SiWgh, JaspreeM has less than 10 hours between shifts but greater than 1 hour (4.48 hours) starting from 2023-09-12 01:01:00
+INFO:root:SiWgh, JaspreeM has less than 10 hours between shifts but greater than 1 hour (5.05 hours) starting from 2023-09-13 00:57:00
+INFO:root:SiWgh, JaspreeM has less than 10 hours between shifts but greater than 1 hour (6.08 hours) starting from 2023-09-14 00:55:00
+INFO:root:SiWgh, JaspreeM has less than 10 hours between shifts but greater than 1 hour (4.55 hours) starting from 2023-09-15 23:27:15
+INFO:root:SiWgh, JaspreeM has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-16 23:15:23
+INFO:root:SiWgh, JaspreeM has worked for 7 consecutive days starting from 2023-09-17 04:00:40
+INFO:root:SiWgh, JaspreeM has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-17 23:15:44
+INFO:root:SiWgh, JaspreeM has less than 10 hours between shifts but greater than 1 hour (4.42 hours) starting from 2023-09-20 02:05:00
+INFO:root:SiWgh, JaspreeM has less than 10 hours between shifts but greater than 1 hour (3.97 hours) starting from 2023-09-21 03:00:00
+INFO:root:SiWgh, MarAWpreeM has less than 10 hours between shifts but greater than 1 hour (4.00 hours) starting from 2023-09-11 10:30:43
+INFO:root:SiWgh, MarAWpreeM has less than 10 hours between shifts but greater than 1 hour (3.99 hours) starting from 2023-09-12 08:30:57
+INFO:root:SiWgh, MarAWpreeM has less than 10 hours between shifts but greater than 1 hour (4.50 hours) starting from 2023-09-13 08:30:41
+INFO:root:SiWgh, MarAWpreeM has less than 10 hours between shifts but greater than 1 hour (4.00 hours) starting from 2023-09-14 08:30:13
+INFO:root:SiWgh, MarAWpreeM has less than 10 hours between shifts but greater than 1 hour (4.00 hours) starting from 2023-09-15 08:30:12
+INFO:root:SiWgh, MarAWpreeM has worked for 7 consecutive days starting from 2023-09-16 09:30:02
+INFO:root:SiWgh, MarAWpreeM has less than 10 hours between shifts but greater than 1 hour (3.00 hours) starting from 2023-09-16 09:30:02
+INFO:root:SiWgh, MarAWpreeM has less than 10 hours between shifts but greater than 1 hour (3.01 hours) starting from 2023-09-16 12:30:13
+INFO:root:SiWgh, MarAWpreeM has less than 10 hours between shifts but greater than 1 hour (3.49 hours) starting from 2023-09-19 09:30:56
+INFO:root:SiWgh, MarAWpreeM has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-20 08:00:23
+INFO:root:Sparks, KeWWeMh has worked for 7 consecutive days starting from 2023-09-10 10:15:57
+INFO:root:Sparks, KeWWeMh has less than 10 hours between shifts but greater than 1 hour (4.74 hours) starting from 2023-09-10 10:15:57
+INFO:root:Sparks, KeWWeMh has worked for 7 consecutive days starting from 2023-09-11 10:10:00
+INFO:root:Sparks, KeWWeMh has less than 10 hours between shifts but greater than 1 hour (4.83 hours) starting from 2023-09-11 10:10:00
+INFO:root:Sparks, KeWWeMh has worked for 7 consecutive days starting from 2023-09-11 15:00:00
+INFO:root:Sparks, KeWWeMh has worked for 7 consecutive days starting from 2023-09-12 10:10:00
+INFO:root:Sparks, KeWWeMh has less than 10 hours between shifts but greater than 1 hour (5.38 hours) starting from 2023-09-12 10:10:00
+INFO:root:Sparks, KeWWeMh has worked for 7 consecutive days starting from 2023-09-12 15:33:00
+INFO:root:Sparks, KeWWeMh has less than 10 hours between shifts but greater than 1 hour (5.38 hours) starting from 2023-09-16 09:58:00
+INFO:root:Sparks, KeWWeMh has less than 10 hours between shifts but greater than 1 hour (5.03 hours) starting from 2023-09-17 09:58:00
+INFO:root:Sparks, KeWWeMh has less than 10 hours between shifts but greater than 1 hour (4.52 hours) starting from 2023-09-18 09:59:00
+INFO:root:Sparks, KeWWeMh has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-19 10:00:22
+INFO:root:Sparks, KeWWeMh has worked for 7 consecutive days starting from 2023-09-19 15:00:28
+INFO:root:Sparks, KeWWeMh has less than 10 hours between shifts but greater than 1 hour (5.37 hours) starting from 2023-09-20 10:08:00
+INFO:root:Sparks, KeWWeMh has less than 10 hours between shifts but greater than 1 hour (5.65 hours) starting from 2023-09-23 09:55:00
+INFO:root:VaXderraCa CasMiXXE, Escar FaGiaW has less than 10 hours between shifts but greater than 1 hour (4.35 hours) starting from 2023-09-10 10:40:00
+INFO:root:VaXderraCa CasMiXXE, Escar FaGiaW has less than 10 hours between shifts but greater than 1 hour (4.50 hours) starting from 2023-09-11 10:31:00
+INFO:root:VaXderraCa CasMiXXE, Escar FaGiaW has worked for 7 consecutive days starting from 2023-09-18 10:41:00
+INFO:root:VaXderraCa CasMiXXE, Escar FaGiaW has less than 10 hours between shifts but greater than 1 hour (4.28 hours) starting from 2023-09-18 10:41:00
+INFO:root:VaXderraCa CasMiXXE, Escar FaGiaW has less than 10 hours between shifts but greater than 1 hour (4.80 hours) starting from 2023-09-19 10:42:00
+INFO:root:VaXderraCa CasMiXXE, Escar FaGiaW has less than 10 hours between shifts but greater than 1 hour (5.04 hours) starting from 2023-09-20 09:58:00
+INFO:root:VasqAez, AXfredE has less than 10 hours between shifts but greater than 1 hour (4.72 hours) starting from 2023-09-10 01:17:00
+INFO:root:VasqAez, AXfredE has less than 10 hours between shifts but greater than 1 hour (4.71 hours) starting from 2023-09-13 01:48:00
+INFO:root:VasqAez, AXfredE has less than 10 hours between shifts but greater than 1 hour (4.65 hours) starting from 2023-09-14 01:51:00
+INFO:root:VasqAez, AXfredE has less than 10 hours between shifts but greater than 1 hour (4.03 hours) starting from 2023-09-16 23:28:00
+INFO:root:VasqAez, AXfredE has worked for 7 consecutive days starting from 2023-09-17 03:30:00
+INFO:root:VasqAez, AXfredE has less than 10 hours between shifts but greater than 1 hour (4.37 hours) starting from 2023-09-19 02:38:00
+INFO:root:VasqAez, AXfredE has less than 10 hours between shifts but greater than 1 hour (3.57 hours) starting from 2023-09-20 01:55:53
+INFO:root:VasqAez, JEhW SeGasMiaW has less than 10 hours between shifts but greater than 1 hour (4.12 hours) starting from 2023-09-11 02:25:00
+INFO:root:VasqAez, JEhW SeGasMiaW has less than 10 hours between shifts but greater than 1 hour (4.42 hours) starting from 2023-09-12 02:05:00
+INFO:root:VasqAez, JEhW SeGasMiaW has less than 10 hours between shifts but greater than 1 hour (4.02 hours) starting from 2023-09-16 02:25:00
+INFO:root:VasqAez, JEhW SeGasMiaW has less than 10 hours between shifts but greater than 1 hour (3.17 hours) starting from 2023-09-18 01:50:00
+INFO:root:VasqAez, JEhW SeGasMiaW has less than 10 hours between shifts but greater than 1 hour (3.72 hours) starting from 2023-09-22 01:47:00
+INFO:root:ViXXa, AXfredE AieXXE has less than 10 hours between shifts but greater than 1 hour (4.58 hours) starting from 2023-09-14 00:55:00
+INFO:root:ViXXa, AXfredE AieXXE has less than 10 hours between shifts but greater than 1 hour (5.17 hours) starting from 2023-09-16 00:55:00
+INFO:root:ViXXa, AXfredE AieXXE has worked for 7 consecutive days starting from 2023-09-18 02:15:00
+INFO:root:ViXXa, AXfredE AieXXE has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-18 02:15:00
+INFO:root:ViXXa, AXfredE AieXXE has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-22 00:15:00
+INFO:root:ViXXa, AXfredE AieXXE has less than 10 hours between shifts but greater than 1 hour (4.75 hours) starting from 2023-09-23 02:15:00
+INFO:root:WgAyeW, RayCEWd has less than 10 hours between shifts but greater than 1 hour (4.43 hours) starting from 2023-09-15 10:35:10
+INFO:root:WgAyeW, RayCEWd has less than 10 hours between shifts but greater than 1 hour (5.50 hours) starting from 2023-09-18 09:55:00
+INFO:root:WgAyeW, RayCEWd has worked for 7 consecutive days starting from 2023-09-18 15:25:00
+INFO:root:WgAyeW, RayCEWd has less than 10 hours between shifts but greater than 1 hour (4.59 hours) starting from 2023-09-19 10:25:00
+INFO:root:WgAyeW, RayCEWd has less than 10 hours between shifts but greater than 1 hour (5.08 hours) starting from 2023-09-20 09:55:00
+INFO:root:WgAyeW, RayCEWd has less than 10 hours between shifts but greater than 1 hour (5.07 hours) starting from 2023-09-21 09:56:00
+INFO:root:WiXXiaCs, MyrreXX has less than 10 hours between shifts but greater than 1 hour (3.30 hours) starting from 2023-09-10 02:48:00
+INFO:root:WiXXiaCs, MyrreXX has worked for 7 consecutive days starting from 2023-09-10 06:06:00
+INFO:root:WiXXiaCs, MyrreXX has worked for 7 consecutive days starting from 2023-09-11 02:18:00
+INFO:root:WiXXiaCs, MyrreXX has less than 10 hours between shifts but greater than 1 hour (4.20 hours) starting from 2023-09-11 02:18:00
+INFO:root:WiXXiaCs, MyrreXX has less than 10 hours between shifts but greater than 1 hour (4.80 hours) starting from 2023-09-12 02:12:00
+INFO:root:WiXXiaCs, MyrreXX has worked for 7 consecutive days starting from 2023-09-13 01:00:00
+INFO:root:WiXXiaCs, MyrreXX has less than 10 hours between shifts but greater than 1 hour (5.17 hours) starting from 2023-09-16 02:40:00
+INFO:root:WiXXiaCs, MyrreXX has less than 10 hours between shifts but greater than 1 hour (3.85 hours) starting from 2023-09-17 02:39:00
+INFO:root:WiXXiaCs, MyrreXX has less than 10 hours between shifts but greater than 1 hour (4.72 hours) starting from 2023-09-18 01:17:00
+INFO:root:WiXXiaCs, MyrreXX has worked for 7 consecutive days starting from 2023-09-18 06:00:00
+INFO:root:WiXXiaCs, MyrreXX has less than 10 hours between shifts but greater than 1 hour (4.42 hours) starting from 2023-09-19 02:35:05
+INFO:root:WiXXiaCs, MyrreXX has less than 10 hours between shifts but greater than 1 hour (4.56 hours) starting from 2023-09-19 23:59:00
+INFO:root:XEpez WAWez, XAis has less than 10 hours between shifts but greater than 1 hour (4.42 hours) starting from 2023-09-10 03:05:00
+INFO:root:XEpez WAWez, XAis has less than 10 hours between shifts but greater than 1 hour (3.75 hours) starting from 2023-09-11 01:15:00
+INFO:root:XEpez WAWez, XAis has less than 10 hours between shifts but greater than 1 hour (4.58 hours) starting from 2023-09-12 00:55:00
+INFO:root:XEpez WAWez, XAis has less than 10 hours between shifts but greater than 1 hour (4.58 hours) starting from 2023-09-13 00:56:00
+INFO:root:XEpez WAWez, XAis has worked for 7 consecutive days starting from 2023-09-13 05:30:48
+INFO:root:XEpez WAWez, XAis has worked for 7 consecutive days starting from 2023-09-14 00:56:00
+INFO:root:XEpez WAWez, XAis has less than 10 hours between shifts but greater than 1 hour (4.57 hours) starting from 2023-09-14 00:56:00
+INFO:root:XEpez WAWez, XAis has worked for 7 consecutive days starting from 2023-09-14 05:30:00
+INFO:root:XEpez WAWez, XAis has less than 10 hours between shifts but greater than 1 hour (4.60 hours) starting from 2023-09-17 01:24:00
+INFO:root:XEpez WAWez, XAis has worked for 7 consecutive days starting from 2023-09-17 06:00:00
+INFO:root:XEpez WAWez, XAis has less than 10 hours between shifts but greater than 1 hour (4.58 hours) starting from 2023-09-18 02:55:00
+INFO:root:XEpez WAWez, XAis has less than 10 hours between shifts but greater than 1 hour (5.47 hours) starting from 2023-09-19 23:32:00
+INFO:root:XariEs XaWdaverde, XAis ErWesME has less than 10 hours between shifts but greater than 1 hour (4.31 hours) starting from 2023-09-11 10:42:00
+INFO:root:XariEs XaWdaverde, XAis ErWesME has less than 10 hours between shifts but greater than 1 hour (4.36 hours) starting from 2023-09-12 10:39:00
+INFO:root:XariEs XaWdaverde, XAis ErWesME has less than 10 hours between shifts but greater than 1 hour (4.25 hours) starting from 2023-09-14 10:45:00
+INFO:root:XariEs XaWdaverde, XAis ErWesME has less than 10 hours between shifts but greater than 1 hour (4.91 hours) starting from 2023-09-15 10:41:00
+INFO:root:XariEs XaWdaverde, XAis ErWesME has less than 10 hours between shifts but greater than 1 hour (4.77 hours) starting from 2023-09-17 10:44:00
+INFO:root:XariEs XaWdaverde, XAis ErWesME has less than 10 hours between shifts but greater than 1 hour (3.88 hours) starting from 2023-09-18 10:40:00
+INFO:root:XariEs XaWdaverde, XAis ErWesME has worked for 7 consecutive days starting from 2023-09-18 14:33:00
+INFO:root:XariEs XaWdaverde, XAis ErWesME has less than 10 hours between shifts but greater than 1 hour (4.78 hours) starting from 2023-09-19 10:44:00
+INFO:root:XariEs XaWdaverde, XAis ErWesME has less than 10 hours between shifts but greater than 1 hour (5.35 hours) starting from 2023-09-21 10:40:00
+INFO:root:XariEs XaWdaverde, XAis ErWesME has less than 10 hours between shifts but greater than 1 hour (5.35 hours) starting from 2023-09-22 09:59:00
+INFO:root:XariEs, Cesar GiEvaWWi has less than 10 hours between shifts but greater than 1 hour (4.34 hours) starting from 2023-09-12 10:40:27
+INFO:root:XariEs, Cesar GiEvaWWi has less than 10 hours between shifts but greater than 1 hour (4.34 hours) starting from 2023-09-13 10:40:43
+INFO:root:XariEs, Cesar GiEvaWWi has less than 10 hours between shifts but greater than 1 hour (4.50 hours) starting from 2023-09-14 10:30:12
+INFO:root:XariEs, Cesar GiEvaWWi has less than 10 hours between shifts but greater than 1 hour (4.35 hours) starting from 2023-09-15 10:40:00
+INFO:root:XariEs, Cesar GiEvaWWi has less than 10 hours between shifts but greater than 1 hour (4.84 hours) starting from 2023-09-16 10:40:00
+INFO:root:XariEs, Cesar GiEvaWWi has less than 10 hours between shifts but greater than 1 hour (5.28 hours) starting from 2023-09-18 09:55:00
+INFO:root:XariEs, Cesar GiEvaWWi has less than 10 hours between shifts but greater than 1 hour (4.95 hours) starting from 2023-09-19 10:33:00
+INFO:root:XariEs, Cesar GiEvaWWi has worked for 7 consecutive days starting from 2023-09-19 15:30:17
+INFO:root:XariEs, Cesar GiEvaWWi has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-20 10:30:00
+INFO:root:XariEs, Cesar GiEvaWWi has less than 10 hours between shifts but greater than 1 hour (5.33 hours) starting from 2023-09-21 10:40:00
+INFO:root:XariEs, Cesar GiEvaWWi has less than 10 hours between shifts but greater than 1 hour (4.43 hours) starting from 2023-09-22 10:40:00
+INFO:root:Xee, XaCar has less than 10 hours between shifts but greater than 1 hour (4.08 hours) starting from 2023-09-10 05:55:00
+INFO:root:Xee, XaCar has less than 10 hours between shifts but greater than 1 hour (4.07 hours) starting from 2023-09-11 05:55:56
+INFO:root:Xee, XaCar has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-12 00:00:00
+INFO:root:Xee, XaCar has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-12 05:00:00
+INFO:root:Xee, XaCar has less than 10 hours between shifts but greater than 1 hour (4.08 hours) starting from 2023-09-13 01:55:00
+INFO:root:Xee, XaCar has less than 10 hours between shifts but greater than 1 hour (4.08 hours) starting from 2023-09-14 05:55:00
+INFO:root:Xee, XaCar has less than 10 hours between shifts but greater than 1 hour (3.77 hours) starting from 2023-09-17 06:14:00
+INFO:root:Xee, XaCar has less than 10 hours between shifts but greater than 1 hour (4.00 hours) starting from 2023-09-18 05:00:00
+INFO:root:Xee, XaCar has worked for 7 consecutive days starting from 2023-09-18 23:00:00
+INFO:root:Xee, XaCar has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-18 23:00:00
+INFO:root:Xee, XaCar has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-19 04:00:00
+INFO:root:Xee, XaCar has less than 10 hours between shifts but greater than 1 hour (5.00 hours) starting from 2023-09-19 23:00:00
+INFO:root:Xee, XaCar has less than 10 hours between shifts but greater than 1 hour (4.08 hours) starting from 2023-09-21 04:55:00
+INFO:root:XiWW, JAsMiW has less than 10 hours between shifts but greater than 1 hour (4.72 hours) starting from 2023-09-10 10:17:00
+INFO:root:XiWW, JAsMiW has less than 10 hours between shifts but greater than 1 hour (4.88 hours) starting from 2023-09-12 10:08:00
+INFO:root:XiWW, JAsMiW has worked for 7 consecutive days starting from 2023-09-12 15:00:31
+INFO:root:XiWW, JAsMiW has less than 10 hours between shifts but greater than 1 hour (4.58 hours) starting from 2023-09-14 10:26:00
+INFO:root:XiWW, JAsMiW has worked for 7 consecutive days starting from 2023-09-14 15:00:57
+INFO:root:XiWW, JAsMiW has less than 10 hours between shifts but greater than 1 hour (4.82 hours) starting from 2023-09-16 10:41:00
+INFO:root:XiWW, JAsMiW has worked for 7 consecutive days starting from 2023-09-16 15:30:24
+INFO:root:XiWW, JAsMiW has worked for 7 consecutive days starting from 2023-09-17 10:12:14
+INFO:root:XiWW, JAsMiW has less than 10 hours between shifts but greater than 1 hour (4.80 hours) starting from 2023-09-17 10:12:14
+INFO:root:XiWW, JAsMiW has less than 10 hours between shifts but greater than 1 hour (4.83 hours) starting from 2023-09-19 10:40:00
+INFO:root:XiWW, JAsMiW has less than 10 hours between shifts but greater than 1 hour (5.43 hours) starting from 2023-09-21 09:55:00
+INFO:root:ZaCEra, CigAeX has less than 10 hours between shifts but greater than 1 hour (4.82 hours) starting from 2023-09-12 10:12:00
+INFO:root:ZaCEra, CigAeX has less than 10 hours between shifts but greater than 1 hour (4.80 hours) starting from 2023-09-13 10:12:00
+INFO:root:ZaCEra, CigAeX has less than 10 hours between shifts but greater than 1 hour (4.83 hours) starting from 2023-09-14 10:11:00
+INFO:root:ZaCEra, CigAeX has less than 10 hours between shifts but greater than 1 hour (4.72 hours) starting from 2023-09-15 10:17:00
+INFO:root:ZaCEra, CigAeX has less than 10 hours between shifts but greater than 1 hour (5.06 hours) starting from 2023-09-16 09:57:00
+INFO:root:ZaCEra, CigAeX has less than 10 hours between shifts but greater than 1 hour (4.93 hours) starting from 2023-09-19 10:04:00
+INFO:root:ZaCEra, CigAeX has worked for 7 consecutive days starting from 2023-09-20 10:10:00
+INFO:root:ZaCEra, CigAeX has less than 10 hours between shifts but greater than 1 hour (5.34 hours) starting from 2023-09-20 10:10:00
+INFO:root:ZaCEra, CigAeX has less than 10 hours between shifts but greater than 1 hour (5.37 hours) starting from 2023-09-21 10:03:00
+INFO:root:ZaCEra, CigAeX has less than 10 hours between shifts but greater than 1 hour (5.45 hours) starting from 2023-09-22 09:58:00
+INFO:root:ZaCEra, Edward has worked for 7 consecutive days starting from 2023-09-10 10:52:00
+INFO:root:ZaCEra, Edward has less than 10 hours between shifts but greater than 1 hour (4.14 hours) starting from 2023-09-10 10:52:00
+INFO:root:ZaCEra, Edward has worked for 7 consecutive days starting from 2023-09-12 10:51:00
+INFO:root:ZaCEra, Edward has less than 10 hours between shifts but greater than 1 hour (5.45 hours) starting from 2023-09-13 10:46:00
+INFO:root:ZaCEra, Edward has less than 10 hours between shifts but greater than 1 hour (3.67 hours) starting from 2023-09-15 10:50:38
+INFO:root:ZaCEra, Edward has less than 10 hours between shifts but greater than 1 hour (4.82 hours) starting from 2023-09-17 10:41:00
+INFO:root:ZaCEra, Edward has less than 10 hours between shifts but greater than 1 hour (5.33 hours) starting from 2023-09-20 10:40:00
